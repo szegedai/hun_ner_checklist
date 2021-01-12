@@ -1,0 +1,40 @@
+Nem Forddal járt a szépségkirálynő .
+Nem Lincolnnal járt a szépségkirálynő .
+Nem Teslával járt a szépségkirálynő .
+Nem Austinnal járt a szépségkirálynő .
+Nem Morrisszal járt a szépségkirálynő .
+Nem Fordokkal járt a szépségkirálynő .
+Nem Lincolnokkal járt a szépségkirálynő .
+Nem Teslákkal járt a szépségkirálynő .
+Nem Austinokkal járt a szépségkirálynő .
+Nem Morrisokkal járt a szépségkirálynő .
+Nem Ford nyerte az autóversenyt .
+Nem Lincoln nyerte az autóversenyt .
+Nem Tesla nyerte az autóversenyt .
+Nem Austin nyerte az autóversenyt .
+Nem Morris nyerte az autóversenyt .
+Nem Fordok nyerték az autóversenyt .
+Nem Lincolnok nyerték az autóversenyt .
+Nem Teslák nyerték az autóversenyt .
+Nem Austinok nyerték az autóversenyt .
+Nem Morrisok nyerték az autóversenyt .
+A cég nem vásárolta fel a Zsolnayt .
+A cég nem vásárolta fel a Herendit .
+A cég nem vásárolta fel a Zwackot .
+A cég nem vásárolta fel a Heinekent .
+A cég nem vásárolta fel a Borsodit .
+A cég nem vásárolta fel a Sopronit .
+A cég nem vásárolta fel a Drehert .
+A cég nem vásárolta fel a Kőbányait .
+A cég nem vásárolta fel a Kozelt .
+A cég nem vásárolta fel a Tuborgot .
+A cég nem vásárolta fel a Zsolnaykat .
+A cég nem vásárolta fel a Herendiket .
+A cég nem vásárolta fel a Zwackokat .
+A cég nem vásárolta fel a Heinekeneket .
+A cég nem vásárolta fel a Borsodikat .
+A cég nem vásárolta fel a Sopronikat .
+A cég nem vásárolta fel a Drehereket .
+A cég nem vásárolta fel a Kőbányaikat .
+A cég nem vásárolta fel a Kozeleket .
+A cég nem vásárolta fel a Tuborgokat .

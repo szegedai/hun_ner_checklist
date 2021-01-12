@@ -1,0 +1,458 @@
+Az Arsenalt legyőzte a Manchester .
+Az Arsenalt legyőzte a Barcelona .
+Az Arsenalt legyőzte a Hamburg .
+Az Arsenalt legyőzte a München .
+Az Arsenalt legyőzte a Madrid .
+Az Arsenalt legyőzte a Köln .
+Az Arsenalt legyőzte a Debrecen .
+Az Intert legyőzte a Manchester .
+Az Intert legyőzte a Barcelona .
+Az Intert legyőzte a Hamburg .
+Az Intert legyőzte a München .
+Az Intert legyőzte a Madrid .
+Az Intert legyőzte a Köln .
+Az Intert legyőzte a Debrecen .
+Az Atalantát legyőzte a Manchester .
+Az Atalantát legyőzte a Barcelona .
+Az Atalantát legyőzte a Hamburg .
+Az Atalantát legyőzte a München .
+Az Atalantát legyőzte a Madrid .
+Az Atalantát legyőzte a Köln .
+Az Atalantát legyőzte a Debrecen .
+Az Újpestet legyőzte a Manchester .
+Az Újpestet legyőzte a Barcelona .
+Az Újpestet legyőzte a Hamburg .
+Az Újpestet legyőzte a München .
+Az Újpestet legyőzte a Madrid .
+Az Újpestet legyőzte a Köln .
+Az Újpestet legyőzte a Debrecen .
+Az Arsenaltól kikapott a Manchester .
+Az Arsenaltól kikapott a Barcelona .
+Az Arsenaltól kikapott a Hamburg .
+Az Arsenaltól kikapott a München .
+Az Arsenaltól kikapott a Madrid .
+Az Arsenaltól kikapott a Köln .
+Az Arsenaltól kikapott a Debrecen .
+Az Intertől kikapott a Manchester .
+Az Intertől kikapott a Barcelona .
+Az Intertől kikapott a Hamburg .
+Az Intertől kikapott a München .
+Az Intertől kikapott a Madrid .
+Az Intertől kikapott a Köln .
+Az Intertől kikapott a Debrecen .
+Az Atalantától kikapott a Manchester .
+Az Atalantától kikapott a Barcelona .
+Az Atalantától kikapott a Hamburg .
+Az Atalantától kikapott a München .
+Az Atalantától kikapott a Madrid .
+Az Atalantától kikapott a Köln .
+Az Atalantától kikapott a Debrecen .
+Az Újpesttől kikapott a Manchester .
+Az Újpesttől kikapott a Barcelona .
+Az Újpesttől kikapott a Hamburg .
+Az Újpesttől kikapott a München .
+Az Újpesttől kikapott a Madrid .
+Az Újpesttől kikapott a Köln .
+Az Újpesttől kikapott a Debrecen .
+Játszott Ronaldo Manchesterben .
+Játszott Ronaldo Barcelonában .
+Játszott Ronaldo Hamburgban .
+Játszott Ronaldo Münchenben .
+Játszott Ronaldo Madridban .
+Játszott Ronaldo Kölnben .
+Játszott Ronaldo Debrecenben .
+Játszott Messi Manchesterben .
+Játszott Messi Barcelonában .
+Játszott Messi Hamburgban .
+Játszott Messi Münchenben .
+Játszott Messi Madridban .
+Játszott Messi Kölnben .
+Játszott Messi Debrecenben .
+Játszott Neymar Manchesterben .
+Játszott Neymar Barcelonában .
+Játszott Neymar Hamburgban .
+Játszott Neymar Münchenben .
+Játszott Neymar Madridban .
+Játszott Neymar Kölnben .
+Játszott Neymar Debrecenben .
+Játszott Xavi Manchesterben .
+Játszott Xavi Barcelonában .
+Játszott Xavi Hamburgban .
+Játszott Xavi Münchenben .
+Játszott Xavi Madridban .
+Játszott Xavi Kölnben .
+Játszott Xavi Debrecenben .
+Játszott Beckham Manchesterben .
+Játszott Beckham Barcelonában .
+Játszott Beckham Hamburgban .
+Játszott Beckham Münchenben .
+Játszott Beckham Madridban .
+Játszott Beckham Kölnben .
+Játszott Beckham Debrecenben .
+Játszott Dzsudzsák Manchesterben .
+Játszott Dzsudzsák Barcelonában .
+Játszott Dzsudzsák Hamburgban .
+Játszott Dzsudzsák Münchenben .
+Játszott Dzsudzsák Madridban .
+Játszott Dzsudzsák Kölnben .
+Játszott Dzsudzsák Debrecenben .
+Játszott Szalai Manchesterben .
+Játszott Szalai Barcelonában .
+Játszott Szalai Hamburgban .
+Játszott Szalai Münchenben .
+Játszott Szalai Madridban .
+Játszott Szalai Kölnben .
+Játszott Szalai Debrecenben .
+Énekelt Ronaldo Manchesterben .
+Énekelt Ronaldo Barcelonában .
+Énekelt Ronaldo Hamburgban .
+Énekelt Ronaldo Münchenben .
+Énekelt Ronaldo Madridban .
+Énekelt Ronaldo Kölnben .
+Énekelt Ronaldo Debrecenben .
+Énekelt Messi Manchesterben .
+Énekelt Messi Barcelonában .
+Énekelt Messi Hamburgban .
+Énekelt Messi Münchenben .
+Énekelt Messi Madridban .
+Énekelt Messi Kölnben .
+Énekelt Messi Debrecenben .
+Énekelt Neymar Manchesterben .
+Énekelt Neymar Barcelonában .
+Énekelt Neymar Hamburgban .
+Énekelt Neymar Münchenben .
+Énekelt Neymar Madridban .
+Énekelt Neymar Kölnben .
+Énekelt Neymar Debrecenben .
+Énekelt Xavi Manchesterben .
+Énekelt Xavi Barcelonában .
+Énekelt Xavi Hamburgban .
+Énekelt Xavi Münchenben .
+Énekelt Xavi Madridban .
+Énekelt Xavi Kölnben .
+Énekelt Xavi Debrecenben .
+Énekelt Beckham Manchesterben .
+Énekelt Beckham Barcelonában .
+Énekelt Beckham Hamburgban .
+Énekelt Beckham Münchenben .
+Énekelt Beckham Madridban .
+Énekelt Beckham Kölnben .
+Énekelt Beckham Debrecenben .
+Énekelt Dzsudzsák Manchesterben .
+Énekelt Dzsudzsák Barcelonában .
+Énekelt Dzsudzsák Hamburgban .
+Énekelt Dzsudzsák Münchenben .
+Énekelt Dzsudzsák Madridban .
+Énekelt Dzsudzsák Kölnben .
+Énekelt Dzsudzsák Debrecenben .
+Énekelt Szalai Manchesterben .
+Énekelt Szalai Barcelonában .
+Énekelt Szalai Hamburgban .
+Énekelt Szalai Münchenben .
+Énekelt Szalai Madridban .
+Énekelt Szalai Kölnben .
+Énekelt Szalai Debrecenben .
+Táncolt Ronaldo Manchesterben .
+Táncolt Ronaldo Barcelonában .
+Táncolt Ronaldo Hamburgban .
+Táncolt Ronaldo Münchenben .
+Táncolt Ronaldo Madridban .
+Táncolt Ronaldo Kölnben .
+Táncolt Ronaldo Debrecenben .
+Táncolt Messi Manchesterben .
+Táncolt Messi Barcelonában .
+Táncolt Messi Hamburgban .
+Táncolt Messi Münchenben .
+Táncolt Messi Madridban .
+Táncolt Messi Kölnben .
+Táncolt Messi Debrecenben .
+Táncolt Neymar Manchesterben .
+Táncolt Neymar Barcelonában .
+Táncolt Neymar Hamburgban .
+Táncolt Neymar Münchenben .
+Táncolt Neymar Madridban .
+Táncolt Neymar Kölnben .
+Táncolt Neymar Debrecenben .
+Táncolt Xavi Manchesterben .
+Táncolt Xavi Barcelonában .
+Táncolt Xavi Hamburgban .
+Táncolt Xavi Münchenben .
+Táncolt Xavi Madridban .
+Táncolt Xavi Kölnben .
+Táncolt Xavi Debrecenben .
+Táncolt Beckham Manchesterben .
+Táncolt Beckham Barcelonában .
+Táncolt Beckham Hamburgban .
+Táncolt Beckham Münchenben .
+Táncolt Beckham Madridban .
+Táncolt Beckham Kölnben .
+Táncolt Beckham Debrecenben .
+Táncolt Dzsudzsák Manchesterben .
+Táncolt Dzsudzsák Barcelonában .
+Táncolt Dzsudzsák Hamburgban .
+Táncolt Dzsudzsák Münchenben .
+Táncolt Dzsudzsák Madridban .
+Táncolt Dzsudzsák Kölnben .
+Táncolt Dzsudzsák Debrecenben .
+Táncolt Szalai Manchesterben .
+Táncolt Szalai Barcelonában .
+Táncolt Szalai Hamburgban .
+Táncolt Szalai Münchenben .
+Táncolt Szalai Madridban .
+Táncolt Szalai Kölnben .
+Táncolt Szalai Debrecenben .
+Vacsorázott Ronaldo Manchesterben .
+Vacsorázott Ronaldo Barcelonában .
+Vacsorázott Ronaldo Hamburgban .
+Vacsorázott Ronaldo Münchenben .
+Vacsorázott Ronaldo Madridban .
+Vacsorázott Ronaldo Kölnben .
+Vacsorázott Ronaldo Debrecenben .
+Vacsorázott Messi Manchesterben .
+Vacsorázott Messi Barcelonában .
+Vacsorázott Messi Hamburgban .
+Vacsorázott Messi Münchenben .
+Vacsorázott Messi Madridban .
+Vacsorázott Messi Kölnben .
+Vacsorázott Messi Debrecenben .
+Vacsorázott Neymar Manchesterben .
+Vacsorázott Neymar Barcelonában .
+Vacsorázott Neymar Hamburgban .
+Vacsorázott Neymar Münchenben .
+Vacsorázott Neymar Madridban .
+Vacsorázott Neymar Kölnben .
+Vacsorázott Neymar Debrecenben .
+Vacsorázott Xavi Manchesterben .
+Vacsorázott Xavi Barcelonában .
+Vacsorázott Xavi Hamburgban .
+Vacsorázott Xavi Münchenben .
+Vacsorázott Xavi Madridban .
+Vacsorázott Xavi Kölnben .
+Vacsorázott Xavi Debrecenben .
+Vacsorázott Beckham Manchesterben .
+Vacsorázott Beckham Barcelonában .
+Vacsorázott Beckham Hamburgban .
+Vacsorázott Beckham Münchenben .
+Vacsorázott Beckham Madridban .
+Vacsorázott Beckham Kölnben .
+Vacsorázott Beckham Debrecenben .
+Vacsorázott Dzsudzsák Manchesterben .
+Vacsorázott Dzsudzsák Barcelonában .
+Vacsorázott Dzsudzsák Hamburgban .
+Vacsorázott Dzsudzsák Münchenben .
+Vacsorázott Dzsudzsák Madridban .
+Vacsorázott Dzsudzsák Kölnben .
+Vacsorázott Dzsudzsák Debrecenben .
+Vacsorázott Szalai Manchesterben .
+Vacsorázott Szalai Barcelonában .
+Vacsorázott Szalai Hamburgban .
+Vacsorázott Szalai Münchenben .
+Vacsorázott Szalai Madridban .
+Vacsorázott Szalai Kölnben .
+Vacsorázott Szalai Debrecenben .
+Játszott Ronaldo a Manchesterben .
+Játszott Ronaldo a Barcelonában .
+Játszott Ronaldo a Hamburgban .
+Játszott Ronaldo a Münchenben .
+Játszott Ronaldo a Madridban .
+Játszott Ronaldo a Kölnben .
+Játszott Ronaldo a Debrecenben .
+Játszott Messi a Manchesterben .
+Játszott Messi a Barcelonában .
+Játszott Messi a Hamburgban .
+Játszott Messi a Münchenben .
+Játszott Messi a Madridban .
+Játszott Messi a Kölnben .
+Játszott Messi a Debrecenben .
+Játszott Neymar a Manchesterben .
+Játszott Neymar a Barcelonában .
+Játszott Neymar a Hamburgban .
+Játszott Neymar a Münchenben .
+Játszott Neymar a Madridban .
+Játszott Neymar a Kölnben .
+Játszott Neymar a Debrecenben .
+Játszott Xavi a Manchesterben .
+Játszott Xavi a Barcelonában .
+Játszott Xavi a Hamburgban .
+Játszott Xavi a Münchenben .
+Játszott Xavi a Madridban .
+Játszott Xavi a Kölnben .
+Játszott Xavi a Debrecenben .
+Játszott Beckham a Manchesterben .
+Játszott Beckham a Barcelonában .
+Játszott Beckham a Hamburgban .
+Játszott Beckham a Münchenben .
+Játszott Beckham a Madridban .
+Játszott Beckham a Kölnben .
+Játszott Beckham a Debrecenben .
+Játszott Dzsudzsák a Manchesterben .
+Játszott Dzsudzsák a Barcelonában .
+Játszott Dzsudzsák a Hamburgban .
+Játszott Dzsudzsák a Münchenben .
+Játszott Dzsudzsák a Madridban .
+Játszott Dzsudzsák a Kölnben .
+Játszott Dzsudzsák a Debrecenben .
+Játszott Szalai a Manchesterben .
+Játszott Szalai a Barcelonában .
+Játszott Szalai a Hamburgban .
+Játszott Szalai a Münchenben .
+Játszott Szalai a Madridban .
+Játszott Szalai a Kölnben .
+Játszott Szalai a Debrecenben .
+Énekelt Ronaldo a Manchesterben .
+Énekelt Ronaldo a Barcelonában .
+Énekelt Ronaldo a Hamburgban .
+Énekelt Ronaldo a Münchenben .
+Énekelt Ronaldo a Madridban .
+Énekelt Ronaldo a Kölnben .
+Énekelt Ronaldo a Debrecenben .
+Énekelt Messi a Manchesterben .
+Énekelt Messi a Barcelonában .
+Énekelt Messi a Hamburgban .
+Énekelt Messi a Münchenben .
+Énekelt Messi a Madridban .
+Énekelt Messi a Kölnben .
+Énekelt Messi a Debrecenben .
+Énekelt Neymar a Manchesterben .
+Énekelt Neymar a Barcelonában .
+Énekelt Neymar a Hamburgban .
+Énekelt Neymar a Münchenben .
+Énekelt Neymar a Madridban .
+Énekelt Neymar a Kölnben .
+Énekelt Neymar a Debrecenben .
+Énekelt Xavi a Manchesterben .
+Énekelt Xavi a Barcelonában .
+Énekelt Xavi a Hamburgban .
+Énekelt Xavi a Münchenben .
+Énekelt Xavi a Madridban .
+Énekelt Xavi a Kölnben .
+Énekelt Xavi a Debrecenben .
+Énekelt Beckham a Manchesterben .
+Énekelt Beckham a Barcelonában .
+Énekelt Beckham a Hamburgban .
+Énekelt Beckham a Münchenben .
+Énekelt Beckham a Madridban .
+Énekelt Beckham a Kölnben .
+Énekelt Beckham a Debrecenben .
+Énekelt Dzsudzsák a Manchesterben .
+Énekelt Dzsudzsák a Barcelonában .
+Énekelt Dzsudzsák a Hamburgban .
+Énekelt Dzsudzsák a Münchenben .
+Énekelt Dzsudzsák a Madridban .
+Énekelt Dzsudzsák a Kölnben .
+Énekelt Dzsudzsák a Debrecenben .
+Énekelt Szalai a Manchesterben .
+Énekelt Szalai a Barcelonában .
+Énekelt Szalai a Hamburgban .
+Énekelt Szalai a Münchenben .
+Énekelt Szalai a Madridban .
+Énekelt Szalai a Kölnben .
+Énekelt Szalai a Debrecenben .
+Táncolt Ronaldo a Manchesterben .
+Táncolt Ronaldo a Barcelonában .
+Táncolt Ronaldo a Hamburgban .
+Táncolt Ronaldo a Münchenben .
+Táncolt Ronaldo a Madridban .
+Táncolt Ronaldo a Kölnben .
+Táncolt Ronaldo a Debrecenben .
+Táncolt Messi a Manchesterben .
+Táncolt Messi a Barcelonában .
+Táncolt Messi a Hamburgban .
+Táncolt Messi a Münchenben .
+Táncolt Messi a Madridban .
+Táncolt Messi a Kölnben .
+Táncolt Messi a Debrecenben .
+Táncolt Neymar a Manchesterben .
+Táncolt Neymar a Barcelonában .
+Táncolt Neymar a Hamburgban .
+Táncolt Neymar a Münchenben .
+Táncolt Neymar a Madridban .
+Táncolt Neymar a Kölnben .
+Táncolt Neymar a Debrecenben .
+Táncolt Xavi a Manchesterben .
+Táncolt Xavi a Barcelonában .
+Táncolt Xavi a Hamburgban .
+Táncolt Xavi a Münchenben .
+Táncolt Xavi a Madridban .
+Táncolt Xavi a Kölnben .
+Táncolt Xavi a Debrecenben .
+Táncolt Beckham a Manchesterben .
+Táncolt Beckham a Barcelonában .
+Táncolt Beckham a Hamburgban .
+Táncolt Beckham a Münchenben .
+Táncolt Beckham a Madridban .
+Táncolt Beckham a Kölnben .
+Táncolt Beckham a Debrecenben .
+Táncolt Dzsudzsák a Manchesterben .
+Táncolt Dzsudzsák a Barcelonában .
+Táncolt Dzsudzsák a Hamburgban .
+Táncolt Dzsudzsák a Münchenben .
+Táncolt Dzsudzsák a Madridban .
+Táncolt Dzsudzsák a Kölnben .
+Táncolt Dzsudzsák a Debrecenben .
+Táncolt Szalai a Manchesterben .
+Táncolt Szalai a Barcelonában .
+Táncolt Szalai a Hamburgban .
+Táncolt Szalai a Münchenben .
+Táncolt Szalai a Madridban .
+Táncolt Szalai a Kölnben .
+Táncolt Szalai a Debrecenben .
+Vacsorázott Ronaldo a Manchesterben .
+Vacsorázott Ronaldo a Barcelonában .
+Vacsorázott Ronaldo a Hamburgban .
+Vacsorázott Ronaldo a Münchenben .
+Vacsorázott Ronaldo a Madridban .
+Vacsorázott Ronaldo a Kölnben .
+Vacsorázott Ronaldo a Debrecenben .
+Vacsorázott Messi a Manchesterben .
+Vacsorázott Messi a Barcelonában .
+Vacsorázott Messi a Hamburgban .
+Vacsorázott Messi a Münchenben .
+Vacsorázott Messi a Madridban .
+Vacsorázott Messi a Kölnben .
+Vacsorázott Messi a Debrecenben .
+Vacsorázott Neymar a Manchesterben .
+Vacsorázott Neymar a Barcelonában .
+Vacsorázott Neymar a Hamburgban .
+Vacsorázott Neymar a Münchenben .
+Vacsorázott Neymar a Madridban .
+Vacsorázott Neymar a Kölnben .
+Vacsorázott Neymar a Debrecenben .
+Vacsorázott Xavi a Manchesterben .
+Vacsorázott Xavi a Barcelonában .
+Vacsorázott Xavi a Hamburgban .
+Vacsorázott Xavi a Münchenben .
+Vacsorázott Xavi a Madridban .
+Vacsorázott Xavi a Kölnben .
+Vacsorázott Xavi a Debrecenben .
+Vacsorázott Beckham a Manchesterben .
+Vacsorázott Beckham a Barcelonában .
+Vacsorázott Beckham a Hamburgban .
+Vacsorázott Beckham a Münchenben .
+Vacsorázott Beckham a Madridban .
+Vacsorázott Beckham a Kölnben .
+Vacsorázott Beckham a Debrecenben .
+Vacsorázott Dzsudzsák a Manchesterben .
+Vacsorázott Dzsudzsák a Barcelonában .
+Vacsorázott Dzsudzsák a Hamburgban .
+Vacsorázott Dzsudzsák a Münchenben .
+Vacsorázott Dzsudzsák a Madridban .
+Vacsorázott Dzsudzsák a Kölnben .
+Vacsorázott Dzsudzsák a Debrecenben .
+Vacsorázott Szalai a Manchesterben .
+Vacsorázott Szalai a Barcelonában .
+Vacsorázott Szalai a Hamburgban .
+Vacsorázott Szalai a Münchenben .
+Vacsorázott Szalai a Madridban .
+Vacsorázott Szalai a Kölnben .
+Vacsorázott Szalai a Debrecenben .
+Még egy gyárat felvásárolt a cég a Mercedes mellett .
+Még egy gyárat felvásárolt a cég a Pick mellett .
+Még egy gyárat felvásárolt a cég a Tesco mellett .
+Még egy gyárat felvásárolt a cég a BMW mellett .
+Még egy gyárat felvásárolt a cég a Bosch mellett .
+Még egy telket megvásárolt a cég a Mercedes mellett .
+Még egy telket megvásárolt a cég a Pick mellett .
+Még egy telket megvásárolt a cég a Tesco mellett .
+Még egy telket megvásárolt a cég a BMW mellett .
+Még egy telket megvásárolt a cég a Bosch mellett .

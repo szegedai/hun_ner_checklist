@@ -1,0 +1,902 @@
+Manchesterben I-LOC
+nem O
+játszott O
+Ronaldo I-PER
+. O
+   
+Manchesterben I-LOC
+nem O
+játszott O
+Messi I-PER
+. O
+   
+Manchesterben I-LOC
+nem O
+játszott O
+Neymar I-PER
+. O
+   
+Manchesterben I-LOC
+nem O
+játszott O
+Xavi I-PER
+. O
+   
+Manchesterben I-LOC
+nem O
+játszott O
+Beckham I-PER
+. O
+   
+Manchesterben I-LOC
+nem O
+játszott O
+Dzsudzsák I-PER
+. O
+   
+Manchesterben I-LOC
+nem O
+játszott O
+Szalai I-PER
+. O
+   
+Barcelonában I-LOC
+nem O
+játszott O
+Ronaldo I-PER
+. O
+   
+Barcelonában I-LOC
+nem O
+játszott O
+Messi I-PER
+. O
+   
+Barcelonában I-LOC
+nem O
+játszott O
+Neymar I-PER
+. O
+   
+Barcelonában I-LOC
+nem O
+játszott O
+Xavi I-PER
+. O
+   
+Barcelonában I-LOC
+nem O
+játszott O
+Beckham I-PER
+. O
+   
+Barcelonában I-LOC
+nem O
+játszott O
+Dzsudzsák I-PER
+. O
+   
+Barcelonában I-LOC
+nem O
+játszott O
+Szalai I-PER
+. O
+   
+Hamburgban I-LOC
+nem O
+játszott O
+Ronaldo I-PER
+. O
+   
+Hamburgban I-LOC
+nem O
+játszott O
+Messi I-PER
+. O
+   
+Hamburgban I-LOC
+nem O
+játszott O
+Neymar I-PER
+. O
+   
+Hamburgban I-LOC
+nem O
+játszott O
+Xavi I-PER
+. O
+   
+Hamburgban I-LOC
+nem O
+játszott O
+Beckham I-PER
+. O
+   
+Hamburgban I-LOC
+nem O
+játszott O
+Dzsudzsák I-PER
+. O
+   
+Hamburgban I-LOC
+nem O
+játszott O
+Szalai I-PER
+. O
+   
+Münchenben I-LOC
+nem O
+játszott O
+Ronaldo I-PER
+. O
+   
+Münchenben I-LOC
+nem O
+játszott O
+Messi I-PER
+. O
+   
+Münchenben I-LOC
+nem O
+játszott O
+Neymar I-PER
+. O
+   
+Münchenben I-LOC
+nem O
+játszott O
+Xavi I-PER
+. O
+   
+Münchenben I-LOC
+nem O
+játszott O
+Beckham I-PER
+. O
+   
+Münchenben I-LOC
+nem O
+játszott O
+Dzsudzsák I-PER
+. O
+   
+Münchenben I-LOC
+nem O
+játszott O
+Szalai I-PER
+. O
+   
+Madridban I-LOC
+nem O
+játszott O
+Ronaldo I-PER
+. O
+   
+Madridban I-LOC
+nem O
+játszott O
+Messi I-PER
+. O
+   
+Madridban I-LOC
+nem O
+játszott O
+Neymar I-PER
+. O
+   
+Madridban I-LOC
+nem O
+játszott O
+Xavi I-PER
+. O
+   
+Madridban I-LOC
+nem O
+játszott O
+Beckham I-PER
+. O
+   
+Madridban I-LOC
+nem O
+játszott O
+Dzsudzsák I-PER
+. O
+   
+Madridban I-LOC
+nem O
+játszott O
+Szalai I-PER
+. O
+   
+Kölnben I-LOC
+nem O
+játszott O
+Ronaldo I-PER
+. O
+   
+Kölnben I-LOC
+nem O
+játszott O
+Messi I-PER
+. O
+   
+Kölnben I-LOC
+nem O
+játszott O
+Neymar I-PER
+. O
+   
+Kölnben I-LOC
+nem O
+játszott O
+Xavi I-PER
+. O
+   
+Kölnben I-LOC
+nem O
+játszott O
+Beckham I-PER
+. O
+   
+Kölnben I-LOC
+nem O
+játszott O
+Dzsudzsák I-PER
+. O
+   
+Kölnben I-LOC
+nem O
+játszott O
+Szalai I-PER
+. O
+   
+Debrecenben I-LOC
+nem O
+játszott O
+Ronaldo I-PER
+. O
+   
+Debrecenben I-LOC
+nem O
+játszott O
+Messi I-PER
+. O
+   
+Debrecenben I-LOC
+nem O
+játszott O
+Neymar I-PER
+. O
+   
+Debrecenben I-LOC
+nem O
+játszott O
+Xavi I-PER
+. O
+   
+Debrecenben I-LOC
+nem O
+játszott O
+Beckham I-PER
+. O
+   
+Debrecenben I-LOC
+nem O
+játszott O
+Dzsudzsák I-PER
+. O
+   
+Debrecenben I-LOC
+nem O
+játszott O
+Szalai I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+nem O
+játszott O
+Ronaldo I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+nem O
+játszott O
+Messi I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+nem O
+játszott O
+Neymar I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+nem O
+játszott O
+Xavi I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+nem O
+játszott O
+Beckham I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+nem O
+játszott O
+Dzsudzsák I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+nem O
+játszott O
+Szalai I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+nem O
+játszott O
+Ronaldo I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+nem O
+játszott O
+Messi I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+nem O
+játszott O
+Neymar I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+nem O
+játszott O
+Xavi I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+nem O
+játszott O
+Beckham I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+nem O
+játszott O
+Dzsudzsák I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+nem O
+játszott O
+Szalai I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+nem O
+játszott O
+Ronaldo I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+nem O
+játszott O
+Messi I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+nem O
+játszott O
+Neymar I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+nem O
+játszott O
+Xavi I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+nem O
+játszott O
+Beckham I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+nem O
+játszott O
+Dzsudzsák I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+nem O
+játszott O
+Szalai I-PER
+. O
+   
+A O
+Münchenben I-ORG
+nem O
+játszott O
+Ronaldo I-PER
+. O
+   
+A O
+Münchenben I-ORG
+nem O
+játszott O
+Messi I-PER
+. O
+   
+A O
+Münchenben I-ORG
+nem O
+játszott O
+Neymar I-PER
+. O
+   
+A O
+Münchenben I-ORG
+nem O
+játszott O
+Xavi I-PER
+. O
+   
+A O
+Münchenben I-ORG
+nem O
+játszott O
+Beckham I-PER
+. O
+   
+A O
+Münchenben I-ORG
+nem O
+játszott O
+Dzsudzsák I-PER
+. O
+   
+A O
+Münchenben I-ORG
+nem O
+játszott O
+Szalai I-PER
+. O
+   
+A O
+Madridban I-ORG
+nem O
+játszott O
+Ronaldo I-PER
+. O
+   
+A O
+Madridban I-ORG
+nem O
+játszott O
+Messi I-PER
+. O
+   
+A O
+Madridban I-ORG
+nem O
+játszott O
+Neymar I-PER
+. O
+   
+A O
+Madridban I-ORG
+nem O
+játszott O
+Xavi I-PER
+. O
+   
+A O
+Madridban I-ORG
+nem O
+játszott O
+Beckham I-PER
+. O
+   
+A O
+Madridban I-ORG
+nem O
+játszott O
+Dzsudzsák I-PER
+. O
+   
+A O
+Madridban I-ORG
+nem O
+játszott O
+Szalai I-PER
+. O
+   
+A O
+Kölnben I-ORG
+nem O
+játszott O
+Ronaldo I-PER
+. O
+   
+A O
+Kölnben I-ORG
+nem O
+játszott O
+Messi I-PER
+. O
+   
+A O
+Kölnben I-ORG
+nem O
+játszott O
+Neymar I-PER
+. O
+   
+A O
+Kölnben I-ORG
+nem O
+játszott O
+Xavi I-PER
+. O
+   
+A O
+Kölnben I-ORG
+nem O
+játszott O
+Beckham I-PER
+. O
+   
+A O
+Kölnben I-ORG
+nem O
+játszott O
+Dzsudzsák I-PER
+. O
+   
+A O
+Kölnben I-ORG
+nem O
+játszott O
+Szalai I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+nem O
+játszott O
+Ronaldo I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+nem O
+játszott O
+Messi I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+nem O
+játszott O
+Neymar I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+nem O
+játszott O
+Xavi I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+nem O
+játszott O
+Beckham I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+nem O
+játszott O
+Dzsudzsák I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+nem O
+játszott O
+Szalai I-PER
+. O
+   
+Forddal I-PER
+nem O
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Lincolnnal I-PER
+nem O
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Teslával I-PER
+nem O
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Austinnal I-PER
+nem O
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Morrisszal I-PER
+nem O
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Nem O
+egy O
+Forddal I-MISC
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Nem O
+egy O
+Lincolnnal I-MISC
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Nem O
+egy O
+Teslával I-MISC
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Nem O
+egy O
+Austinnal I-MISC
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Nem O
+egy O
+Morrisszal I-MISC
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Nem O
+a O
+Forddal I-MISC
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Nem O
+a O
+Lincolnnal I-MISC
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Nem O
+a O
+Teslával I-MISC
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Nem O
+a O
+Morrisszal I-MISC
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Nem O
+az O
+Austinnal I-MISC
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Nem O
+Fordnál I-PER
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Nem O
+Lincolnnál I-PER
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Nem O
+Teslánál I-PER
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Nem O
+Austinnál I-PER
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Nem O
+Morrisnál I-PER
+járt O
+a O
+szépségkirálynő O
+. O
+   
+A O
+Fordnál I-ORG
+nem O
+járt O
+a O
+szépségkirálynő O
+. O
+   
+A O
+Lincolnnál I-ORG
+nem O
+járt O
+a O
+szépségkirálynő O
+. O
+   
+A O
+Teslánál I-ORG
+nem O
+járt O
+a O
+szépségkirálynő O
+. O
+   
+A O
+Morrisnál I-ORG
+nem O
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Az O
+Austinnál I-ORG
+nem O
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Nem O
+törte O
+össze O
+Ford I-PER
+autóját O
+. O
+   
+Nem O
+törte O
+össze O
+Lincoln I-PER
+autóját O
+. O
+   
+Nem O
+törte O
+össze O
+Tesla I-PER
+autóját O
+. O
+   
+Nem O
+törte O
+össze O
+Austin I-PER
+autóját O
+. O
+   
+Nem O
+törte O
+össze O
+Morris I-PER
+autóját O
+. O
+   
+Nem O
+törte O
+össze O
+a O
+Ford I-MISC
+autóját O
+. O
+   
+Nem O
+törte O
+össze O
+a O
+Lincoln I-MISC
+autóját O
+. O
+   
+Nem O
+törte O
+össze O
+a O
+Tesla I-MISC
+autóját O
+. O
+   
+Nem O
+törte O
+össze O
+a O
+Morris I-MISC
+autóját O
+. O
+   
+Nem O
+törte O
+össze O
+az O
+Austin I-MISC
+autóját O
+. O
+   

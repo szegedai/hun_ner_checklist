@@ -1,0 +1,294 @@
+A Manchesterben játszott Ronaldo .
+A Manchesterben játszott Messi .
+A Manchesterben játszott Neymar .
+A Manchesterben játszott Xavi .
+A Manchesterben játszott Beckham .
+A Manchesterben játszott Dzsudzsák .
+A Manchesterben játszott Szalai .
+A Barcelonában játszott Ronaldo .
+A Barcelonában játszott Messi .
+A Barcelonában játszott Neymar .
+A Barcelonában játszott Xavi .
+A Barcelonában játszott Beckham .
+A Barcelonában játszott Dzsudzsák .
+A Barcelonában játszott Szalai .
+A Hamburgban játszott Ronaldo .
+A Hamburgban játszott Messi .
+A Hamburgban játszott Neymar .
+A Hamburgban játszott Xavi .
+A Hamburgban játszott Beckham .
+A Hamburgban játszott Dzsudzsák .
+A Hamburgban játszott Szalai .
+A Münchenben játszott Ronaldo .
+A Münchenben játszott Messi .
+A Münchenben játszott Neymar .
+A Münchenben játszott Xavi .
+A Münchenben játszott Beckham .
+A Münchenben játszott Dzsudzsák .
+A Münchenben játszott Szalai .
+A Madridban játszott Ronaldo .
+A Madridban játszott Messi .
+A Madridban játszott Neymar .
+A Madridban játszott Xavi .
+A Madridban játszott Beckham .
+A Madridban játszott Dzsudzsák .
+A Madridban játszott Szalai .
+A Kölnben játszott Ronaldo .
+A Kölnben játszott Messi .
+A Kölnben játszott Neymar .
+A Kölnben játszott Xavi .
+A Kölnben játszott Beckham .
+A Kölnben játszott Dzsudzsák .
+A Kölnben játszott Szalai .
+A Debrecenben játszott Ronaldo .
+A Debrecenben játszott Messi .
+A Debrecenben játszott Neymar .
+A Debrecenben játszott Xavi .
+A Debrecenben játszott Beckham .
+A Debrecenben játszott Dzsudzsák .
+A Debrecenben játszott Szalai .
+A Manchesterrel játszott Ronaldo .
+A Manchesterrel játszott Messi .
+A Manchesterrel játszott Neymar .
+A Manchesterrel játszott Xavi .
+A Manchesterrel játszott Beckham .
+A Manchesterrel játszott Dzsudzsák .
+A Manchesterrel játszott Szalai .
+A Barcelonával játszott Ronaldo .
+A Barcelonával játszott Messi .
+A Barcelonával játszott Neymar .
+A Barcelonával játszott Xavi .
+A Barcelonával játszott Beckham .
+A Barcelonával játszott Dzsudzsák .
+A Barcelonával játszott Szalai .
+A Hamburggal játszott Ronaldo .
+A Hamburggal játszott Messi .
+A Hamburggal játszott Neymar .
+A Hamburggal játszott Xavi .
+A Hamburggal játszott Beckham .
+A Hamburggal játszott Dzsudzsák .
+A Hamburggal játszott Szalai .
+A Münchennel játszott Ronaldo .
+A Münchennel játszott Messi .
+A Münchennel játszott Neymar .
+A Münchennel játszott Xavi .
+A Münchennel játszott Beckham .
+A Münchennel játszott Dzsudzsák .
+A Münchennel játszott Szalai .
+A Madriddal játszott Ronaldo .
+A Madriddal játszott Messi .
+A Madriddal játszott Neymar .
+A Madriddal játszott Xavi .
+A Madriddal játszott Beckham .
+A Madriddal játszott Dzsudzsák .
+A Madriddal játszott Szalai .
+A Kölnnel játszott Ronaldo .
+A Kölnnel játszott Messi .
+A Kölnnel játszott Neymar .
+A Kölnnel játszott Xavi .
+A Kölnnel játszott Beckham .
+A Kölnnel játszott Dzsudzsák .
+A Kölnnel játszott Szalai .
+A Debrecennel játszott Ronaldo .
+A Debrecennel játszott Messi .
+A Debrecennel játszott Neymar .
+A Debrecennel játszott Xavi .
+A Debrecennel játszott Beckham .
+A Debrecennel játszott Dzsudzsák .
+A Debrecennel játszott Szalai .
+A Manchesternél játszott Ronaldo .
+A Manchesternél játszott Messi .
+A Manchesternél játszott Neymar .
+A Manchesternél játszott Xavi .
+A Manchesternél játszott Beckham .
+A Manchesternél játszott Dzsudzsák .
+A Manchesternél játszott Szalai .
+A Barcelonánál játszott Ronaldo .
+A Barcelonánál játszott Messi .
+A Barcelonánál játszott Neymar .
+A Barcelonánál játszott Xavi .
+A Barcelonánál játszott Beckham .
+A Barcelonánál játszott Dzsudzsák .
+A Barcelonánál játszott Szalai .
+A Hamburgnál játszott Ronaldo .
+A Hamburgnál játszott Messi .
+A Hamburgnál játszott Neymar .
+A Hamburgnál játszott Xavi .
+A Hamburgnál játszott Beckham .
+A Hamburgnál játszott Dzsudzsák .
+A Hamburgnál játszott Szalai .
+A Münchennél játszott Ronaldo .
+A Münchennél játszott Messi .
+A Münchennél játszott Neymar .
+A Münchennél játszott Xavi .
+A Münchennél játszott Beckham .
+A Münchennél játszott Dzsudzsák .
+A Münchennél játszott Szalai .
+A Madridnál játszott Ronaldo .
+A Madridnál játszott Messi .
+A Madridnál játszott Neymar .
+A Madridnál játszott Xavi .
+A Madridnál játszott Beckham .
+A Madridnál játszott Dzsudzsák .
+A Madridnál játszott Szalai .
+A Kölnnél játszott Ronaldo .
+A Kölnnél játszott Messi .
+A Kölnnél játszott Neymar .
+A Kölnnél játszott Xavi .
+A Kölnnél játszott Beckham .
+A Kölnnél játszott Dzsudzsák .
+A Kölnnél játszott Szalai .
+A Debrecennél játszott Ronaldo .
+A Debrecennél játszott Messi .
+A Debrecennél játszott Neymar .
+A Debrecennél játszott Xavi .
+A Debrecennél játszott Beckham .
+A Debrecennél játszott Dzsudzsák .
+A Debrecennél játszott Szalai .
+Manchesterben játszott Ronaldo .
+Manchesterben játszott Messi .
+Manchesterben játszott Neymar .
+Manchesterben játszott Xavi .
+Manchesterben játszott Beckham .
+Manchesterben játszott Dzsudzsák .
+Manchesterben játszott Szalai .
+Barcelonában játszott Ronaldo .
+Barcelonában játszott Messi .
+Barcelonában játszott Neymar .
+Barcelonában játszott Xavi .
+Barcelonában játszott Beckham .
+Barcelonában játszott Dzsudzsák .
+Barcelonában játszott Szalai .
+Hamburgban játszott Ronaldo .
+Hamburgban játszott Messi .
+Hamburgban játszott Neymar .
+Hamburgban játszott Xavi .
+Hamburgban játszott Beckham .
+Hamburgban játszott Dzsudzsák .
+Hamburgban játszott Szalai .
+Münchenben játszott Ronaldo .
+Münchenben játszott Messi .
+Münchenben játszott Neymar .
+Münchenben játszott Xavi .
+Münchenben játszott Beckham .
+Münchenben játszott Dzsudzsák .
+Münchenben játszott Szalai .
+Madridban játszott Ronaldo .
+Madridban játszott Messi .
+Madridban játszott Neymar .
+Madridban játszott Xavi .
+Madridban játszott Beckham .
+Madridban játszott Dzsudzsák .
+Madridban játszott Szalai .
+Kölnben játszott Ronaldo .
+Kölnben játszott Messi .
+Kölnben játszott Neymar .
+Kölnben játszott Xavi .
+Kölnben játszott Beckham .
+Kölnben játszott Dzsudzsák .
+Kölnben játszott Szalai .
+Debrecenben játszott Ronaldo .
+Debrecenben játszott Messi .
+Debrecenben játszott Neymar .
+Debrecenben játszott Xavi .
+Debrecenben játszott Beckham .
+Debrecenben játszott Dzsudzsák .
+Debrecenben játszott Szalai .
+Manchesterrel játszott Ronaldo .
+Manchesterrel játszott Messi .
+Manchesterrel játszott Neymar .
+Manchesterrel játszott Xavi .
+Manchesterrel játszott Beckham .
+Manchesterrel játszott Dzsudzsák .
+Manchesterrel játszott Szalai .
+Barcelonával játszott Ronaldo .
+Barcelonával játszott Messi .
+Barcelonával játszott Neymar .
+Barcelonával játszott Xavi .
+Barcelonával játszott Beckham .
+Barcelonával játszott Dzsudzsák .
+Barcelonával játszott Szalai .
+Hamburggal játszott Ronaldo .
+Hamburggal játszott Messi .
+Hamburggal játszott Neymar .
+Hamburggal játszott Xavi .
+Hamburggal játszott Beckham .
+Hamburggal játszott Dzsudzsák .
+Hamburggal játszott Szalai .
+Münchennel játszott Ronaldo .
+Münchennel játszott Messi .
+Münchennel játszott Neymar .
+Münchennel játszott Xavi .
+Münchennel játszott Beckham .
+Münchennel játszott Dzsudzsák .
+Münchennel játszott Szalai .
+Madriddal játszott Ronaldo .
+Madriddal játszott Messi .
+Madriddal játszott Neymar .
+Madriddal játszott Xavi .
+Madriddal játszott Beckham .
+Madriddal játszott Dzsudzsák .
+Madriddal játszott Szalai .
+Kölnnel játszott Ronaldo .
+Kölnnel játszott Messi .
+Kölnnel játszott Neymar .
+Kölnnel játszott Xavi .
+Kölnnel játszott Beckham .
+Kölnnel játszott Dzsudzsák .
+Kölnnel játszott Szalai .
+Debrecennel játszott Ronaldo .
+Debrecennel játszott Messi .
+Debrecennel játszott Neymar .
+Debrecennel játszott Xavi .
+Debrecennel játszott Beckham .
+Debrecennel játszott Dzsudzsák .
+Debrecennel játszott Szalai .
+Manchesternél játszott Ronaldo .
+Manchesternél játszott Messi .
+Manchesternél játszott Neymar .
+Manchesternél játszott Xavi .
+Manchesternél játszott Beckham .
+Manchesternél játszott Dzsudzsák .
+Manchesternél játszott Szalai .
+Barcelonánál játszott Ronaldo .
+Barcelonánál játszott Messi .
+Barcelonánál játszott Neymar .
+Barcelonánál játszott Xavi .
+Barcelonánál játszott Beckham .
+Barcelonánál játszott Dzsudzsák .
+Barcelonánál játszott Szalai .
+Hamburgnál játszott Ronaldo .
+Hamburgnál játszott Messi .
+Hamburgnál játszott Neymar .
+Hamburgnál játszott Xavi .
+Hamburgnál játszott Beckham .
+Hamburgnál játszott Dzsudzsák .
+Hamburgnál játszott Szalai .
+Münchennél játszott Ronaldo .
+Münchennél játszott Messi .
+Münchennél játszott Neymar .
+Münchennél játszott Xavi .
+Münchennél játszott Beckham .
+Münchennél játszott Dzsudzsák .
+Münchennél játszott Szalai .
+Madridnál játszott Ronaldo .
+Madridnál játszott Messi .
+Madridnál játszott Neymar .
+Madridnál játszott Xavi .
+Madridnál játszott Beckham .
+Madridnál játszott Dzsudzsák .
+Madridnál játszott Szalai .
+Kölnnél játszott Ronaldo .
+Kölnnél játszott Messi .
+Kölnnél játszott Neymar .
+Kölnnél játszott Xavi .
+Kölnnél játszott Beckham .
+Kölnnél játszott Dzsudzsák .
+Kölnnél játszott Szalai .
+Debrecennél játszott Ronaldo .
+Debrecennél játszott Messi .
+Debrecennél játszott Neymar .
+Debrecennél játszott Xavi .
+Debrecennél játszott Beckham .
+Debrecennél játszott Dzsudzsák .
+Debrecennél játszott Szalai .

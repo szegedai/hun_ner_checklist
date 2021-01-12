@@ -1,0 +1,320 @@
+Nem	O
+Forddal	I-PER
+járt	O
+a	O
+szépségkirálynő	O
+.	O
+
+Nem	O
+Lincolnnal	I-PER
+járt	O
+a	O
+szépségkirálynő	O
+.	O
+
+Nem	O
+Teslával	I-PER
+járt	O
+a	O
+szépségkirálynő	O
+.	O
+
+Nem	O
+Austinnal	I-PER
+járt	O
+a	O
+szépségkirálynő	O
+.	O
+
+Nem	O
+Morrisszal	I-PER
+járt	O
+a	O
+szépségkirálynő	O
+.	O
+
+Nem	O
+Fordokkal	I-PER
+járt	O
+a	O
+szépségkirálynő	O
+.	O
+
+Nem	O
+Lincolnokkal	I-PER
+járt	O
+a	O
+szépségkirálynő	O
+.	O
+
+Nem	O
+Teslákkal	I-PER
+járt	O
+a	O
+szépségkirálynő	O
+.	O
+
+Nem	O
+Austinokkal	I-PER
+járt	O
+a	O
+szépségkirálynő	O
+.	O
+
+Nem	O
+Morrisokkal	I-PER
+járt	O
+a	O
+szépségkirálynő	O
+.	O
+
+Nem	O
+Ford	I-ORG
+nyerte	O
+az	O
+autóversenyt	O
+.	O
+
+Nem	O
+Lincoln	I-ORG
+nyerte	O
+az	O
+autóversenyt	O
+.	O
+
+Nem	O
+Tesla	I-PER
+nyerte	O
+az	O
+autóversenyt	O
+.	O
+
+Nem	I-PER
+Austin	I-PER
+nyerte	O
+az	O
+autóversenyt	O
+.	O
+
+Nem	O
+Morris	I-PER
+nyerte	O
+az	O
+autóversenyt	O
+.	O
+
+Nem	O
+Fordok	I-PER
+nyerték	O
+az	O
+autóversenyt	O
+.	O
+
+Nem	O
+Lincolnok	I-PER
+nyerték	O
+az	O
+autóversenyt	O
+.	O
+
+Nem	O
+Teslák	I-PER
+nyerték	O
+az	O
+autóversenyt	O
+.	O
+
+Nem	O
+Austinok	I-PER
+nyerték	O
+az	O
+autóversenyt	O
+.	O
+
+Nem	O
+Morrisok	I-PER
+nyerték	O
+az	O
+autóversenyt	O
+.	O
+
+A	O
+cég	O
+nem	O
+vásárolta	O
+fel	O
+a	O
+Zsolnayt	I-ORG
+.	O
+
+A	O
+cég	O
+nem	O
+vásárolta	O
+fel	O
+a	O
+Herendit	I-ORG
+.	O
+
+A	O
+cég	O
+nem	O
+vásárolta	O
+fel	O
+a	O
+Zwackot	I-ORG
+.	O
+
+A	O
+cég	O
+nem	O
+vásárolta	O
+fel	O
+a	O
+Heinekent	I-ORG
+.	O
+
+A	O
+cég	O
+nem	O
+vásárolta	O
+fel	O
+a	O
+Borsodit	I-ORG
+.	O
+
+A	O
+cég	O
+nem	O
+vásárolta	O
+fel	O
+a	O
+Sopronit	I-ORG
+.	O
+
+A	O
+cég	O
+nem	O
+vásárolta	O
+fel	O
+a	O
+Drehert	I-ORG
+.	O
+
+A	O
+cég	O
+nem	O
+vásárolta	O
+fel	O
+a	O
+Kőbányait	I-ORG
+.	O
+
+A	O
+cég	O
+nem	O
+vásárolta	O
+fel	O
+a	O
+Kozelt	I-ORG
+.	O
+
+A	O
+cég	O
+nem	O
+vásárolta	O
+fel	O
+a	O
+Tuborgot	I-ORG
+.	O
+
+A	O
+cég	O
+nem	O
+vásárolta	O
+fel	O
+a	O
+Zsolnaykat	I-ORG
+.	O
+
+A	O
+cég	O
+nem	O
+vásárolta	O
+fel	O
+a	O
+Herendiket	I-ORG
+.	O
+
+A	O
+cég	O
+nem	O
+vásárolta	O
+fel	O
+a	O
+Zwackokat	I-ORG
+.	O
+
+A	O
+cég	O
+nem	O
+vásárolta	O
+fel	O
+a	O
+Heinekeneket	I-ORG
+.	O
+
+A	O
+cég	O
+nem	O
+vásárolta	O
+fel	O
+a	O
+Borsodikat	I-ORG
+.	O
+
+A	O
+cég	O
+nem	O
+vásárolta	O
+fel	O
+a	O
+Sopronikat	I-ORG
+.	O
+
+A	O
+cég	O
+nem	O
+vásárolta	O
+fel	O
+a	O
+Drehereket	I-ORG
+.	O
+
+A	O
+cég	O
+nem	O
+vásárolta	O
+fel	O
+a	O
+Kőbányaikat	I-ORG
+.	O
+
+A	O
+cég	O
+nem	O
+vásárolta	O
+fel	O
+a	O
+Kozeleket	I-ORG
+.	O
+
+A	O
+cég	O
+nem	O
+vásárolta	O
+fel	O
+a	O
+Tuborgokat	I-ORG
+.	O
+

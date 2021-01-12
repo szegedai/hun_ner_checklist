@@ -1,0 +1,2658 @@
+A O
+Manchester I-ORG
+legyőzte O
+az O
+Arsenalt I-ORG
+. O
+   
+A O
+Manchester I-ORG
+legyőzte O
+az O
+Intert I-ORG
+. O
+   
+A O
+Manchester I-ORG
+legyőzte O
+az O
+Atalantát I-ORG
+. O
+   
+A O
+Manchester I-ORG
+legyőzte O
+az O
+Újpestet I-ORG
+. O
+   
+A O
+Barcelona I-ORG
+legyőzte O
+az O
+Arsenalt I-ORG
+. O
+   
+A O
+Barcelona I-ORG
+legyőzte O
+az O
+Intert I-ORG
+. O
+   
+A O
+Barcelona I-ORG
+legyőzte O
+az O
+Atalantát I-ORG
+. O
+   
+A O
+Barcelona I-ORG
+legyőzte O
+az O
+Újpestet I-ORG
+. O
+   
+A O
+Hamburg I-ORG
+legyőzte O
+az O
+Arsenalt I-ORG
+. O
+   
+A O
+Hamburg I-ORG
+legyőzte O
+az O
+Intert I-ORG
+. O
+   
+A O
+Hamburg I-ORG
+legyőzte O
+az O
+Atalantát I-ORG
+. O
+   
+A O
+Hamburg I-ORG
+legyőzte O
+az O
+Újpestet I-ORG
+. O
+   
+A O
+München I-ORG
+legyőzte O
+az O
+Arsenalt I-ORG
+. O
+   
+A O
+München I-ORG
+legyőzte O
+az O
+Intert I-ORG
+. O
+   
+A O
+München I-ORG
+legyőzte O
+az O
+Atalantát I-ORG
+. O
+   
+A O
+München I-ORG
+legyőzte O
+az O
+Újpestet I-ORG
+. O
+   
+A O
+Madrid I-ORG
+legyőzte O
+az O
+Arsenalt I-ORG
+. O
+   
+A O
+Madrid I-ORG
+legyőzte O
+az O
+Intert I-ORG
+. O
+   
+A O
+Madrid I-ORG
+legyőzte O
+az O
+Atalantát I-ORG
+. O
+   
+A O
+Madrid I-ORG
+legyőzte O
+az O
+Újpestet I-ORG
+. O
+   
+A O
+Köln I-ORG
+legyőzte O
+az O
+Arsenalt I-ORG
+. O
+   
+A O
+Köln I-ORG
+legyőzte O
+az O
+Intert I-ORG
+. O
+   
+A O
+Köln I-ORG
+legyőzte O
+az O
+Atalantát I-ORG
+. O
+   
+A O
+Köln I-ORG
+legyőzte O
+az O
+Újpestet I-ORG
+. O
+   
+A O
+Debrecen I-ORG
+legyőzte O
+az O
+Arsenalt I-ORG
+. O
+   
+A O
+Debrecen I-ORG
+legyőzte O
+az O
+Intert I-ORG
+. O
+   
+A O
+Debrecen I-ORG
+legyőzte O
+az O
+Atalantát I-ORG
+. O
+   
+A O
+Debrecen I-ORG
+legyőzte O
+az O
+Újpestet I-ORG
+. O
+   
+A O
+Manchester I-ORG
+kikapott O
+az O
+Arsenaltól I-ORG
+. O
+   
+A O
+Manchester I-ORG
+kikapott O
+az O
+Intertől I-ORG
+. O
+   
+A O
+Manchester I-ORG
+kikapott O
+az O
+Atalantától I-ORG
+. O
+   
+A O
+Manchester I-ORG
+kikapott O
+az O
+Újpesttől I-ORG
+. O
+   
+A O
+Barcelona I-ORG
+kikapott O
+az O
+Arsenaltól I-ORG
+. O
+   
+A O
+Barcelona I-ORG
+kikapott O
+az O
+Intertől I-ORG
+. O
+   
+A O
+Barcelona I-ORG
+kikapott O
+az O
+Atalantától I-ORG
+. O
+   
+A O
+Barcelona I-ORG
+kikapott O
+az O
+Újpesttől I-ORG
+. O
+   
+A O
+Hamburg I-ORG
+kikapott O
+az O
+Arsenaltól I-ORG
+. O
+   
+A O
+Hamburg I-ORG
+kikapott O
+az O
+Intertől I-ORG
+. O
+   
+A O
+Hamburg I-ORG
+kikapott O
+az O
+Atalantától I-ORG
+. O
+   
+A O
+Hamburg I-ORG
+kikapott O
+az O
+Újpesttől I-ORG
+. O
+   
+A O
+München I-ORG
+kikapott O
+az O
+Arsenaltól I-ORG
+. O
+   
+A O
+München I-ORG
+kikapott O
+az O
+Intertől I-ORG
+. O
+   
+A O
+München I-ORG
+kikapott O
+az O
+Atalantától I-ORG
+. O
+   
+A O
+München I-ORG
+kikapott O
+az O
+Újpesttől I-ORG
+. O
+   
+A O
+Madrid I-ORG
+kikapott O
+az O
+Arsenaltól I-ORG
+. O
+   
+A O
+Madrid I-ORG
+kikapott O
+az O
+Intertől I-ORG
+. O
+   
+A O
+Madrid I-ORG
+kikapott O
+az O
+Atalantától I-ORG
+. O
+   
+A O
+Madrid I-ORG
+kikapott O
+az O
+Újpesttől I-ORG
+. O
+   
+A O
+Köln I-ORG
+kikapott O
+az O
+Arsenaltól I-ORG
+. O
+   
+A O
+Köln I-ORG
+kikapott O
+az O
+Intertől I-ORG
+. O
+   
+A O
+Köln I-ORG
+kikapott O
+az O
+Atalantától I-ORG
+. O
+   
+A O
+Köln I-ORG
+kikapott O
+az O
+Újpesttől I-ORG
+. O
+   
+A O
+Debrecen I-ORG
+kikapott O
+az O
+Arsenaltól I-ORG
+. O
+   
+A O
+Debrecen I-ORG
+kikapott O
+az O
+Intertől I-ORG
+. O
+   
+A O
+Debrecen I-ORG
+kikapott O
+az O
+Atalantától I-ORG
+. O
+   
+A O
+Debrecen I-ORG
+kikapott O
+az O
+Újpesttől I-ORG
+. O
+   
+Manchesterben I-LOC
+játszott O
+Ronaldo I-PER
+. O
+   
+Manchesterben I-LOC
+játszott O
+Messi I-PER
+. O
+   
+Manchesterben I-LOC
+játszott O
+Neymar I-PER
+. O
+   
+Manchesterben I-LOC
+játszott O
+Xavi I-PER
+. O
+   
+Manchesterben I-LOC
+játszott O
+Beckham I-PER
+. O
+   
+Manchesterben I-LOC
+játszott O
+Dzsudzsák I-PER
+. O
+   
+Manchesterben I-LOC
+játszott O
+Szalai I-PER
+. O
+   
+Manchesterben I-LOC
+énekelt O
+Ronaldo I-PER
+. O
+   
+Manchesterben I-LOC
+énekelt O
+Messi I-PER
+. O
+   
+Manchesterben I-LOC
+énekelt O
+Neymar I-PER
+. O
+   
+Manchesterben I-LOC
+énekelt O
+Xavi I-PER
+. O
+   
+Manchesterben I-LOC
+énekelt O
+Beckham I-PER
+. O
+   
+Manchesterben I-LOC
+énekelt O
+Dzsudzsák I-PER
+. O
+   
+Manchesterben I-LOC
+énekelt O
+Szalai I-PER
+. O
+   
+Manchesterben I-LOC
+táncolt O
+Ronaldo I-PER
+. O
+   
+Manchesterben I-LOC
+táncolt O
+Messi I-PER
+. O
+   
+Manchesterben I-LOC
+táncolt O
+Neymar I-PER
+. O
+   
+Manchesterben I-LOC
+táncolt O
+Xavi I-PER
+. O
+   
+Manchesterben I-LOC
+táncolt O
+Beckham I-PER
+. O
+   
+Manchesterben I-LOC
+táncolt O
+Dzsudzsák I-PER
+. O
+   
+Manchesterben I-LOC
+táncolt O
+Szalai I-PER
+. O
+   
+Manchesterben I-LOC
+vacsorázott O
+Ronaldo I-PER
+. O
+   
+Manchesterben I-LOC
+vacsorázott O
+Messi I-PER
+. O
+   
+Manchesterben I-LOC
+vacsorázott O
+Neymar I-PER
+. O
+   
+Manchesterben I-LOC
+vacsorázott O
+Xavi I-PER
+. O
+   
+Manchesterben I-LOC
+vacsorázott O
+Beckham I-PER
+. O
+   
+Manchesterben I-LOC
+vacsorázott O
+Dzsudzsák I-PER
+. O
+   
+Manchesterben I-LOC
+vacsorázott O
+Szalai I-PER
+. O
+   
+Barcelonában I-LOC
+játszott O
+Ronaldo I-PER
+. O
+   
+Barcelonában I-LOC
+játszott O
+Messi I-PER
+. O
+   
+Barcelonában I-LOC
+játszott O
+Neymar I-PER
+. O
+   
+Barcelonában I-LOC
+játszott O
+Xavi I-PER
+. O
+   
+Barcelonában I-LOC
+játszott O
+Beckham I-PER
+. O
+   
+Barcelonában I-LOC
+játszott O
+Dzsudzsák I-PER
+. O
+   
+Barcelonában I-LOC
+játszott O
+Szalai I-PER
+. O
+   
+Barcelonában I-LOC
+énekelt O
+Ronaldo I-PER
+. O
+   
+Barcelonában I-LOC
+énekelt O
+Messi I-PER
+. O
+   
+Barcelonában I-LOC
+énekelt O
+Neymar I-PER
+. O
+   
+Barcelonában I-LOC
+énekelt O
+Xavi I-PER
+. O
+   
+Barcelonában I-LOC
+énekelt O
+Beckham I-PER
+. O
+   
+Barcelonában I-LOC
+énekelt O
+Dzsudzsák I-PER
+. O
+   
+Barcelonában I-LOC
+énekelt O
+Szalai I-PER
+. O
+   
+Barcelonában I-LOC
+táncolt O
+Ronaldo I-PER
+. O
+   
+Barcelonában I-LOC
+táncolt O
+Messi I-PER
+. O
+   
+Barcelonában I-LOC
+táncolt O
+Neymar I-PER
+. O
+   
+Barcelonában I-LOC
+táncolt O
+Xavi I-PER
+. O
+   
+Barcelonában I-LOC
+táncolt O
+Beckham I-PER
+. O
+   
+Barcelonában I-LOC
+táncolt O
+Dzsudzsák I-PER
+. O
+   
+Barcelonában I-LOC
+táncolt O
+Szalai I-PER
+. O
+   
+Barcelonában I-LOC
+vacsorázott O
+Ronaldo I-PER
+. O
+   
+Barcelonában I-LOC
+vacsorázott O
+Messi I-PER
+. O
+   
+Barcelonában I-LOC
+vacsorázott O
+Neymar I-PER
+. O
+   
+Barcelonában I-LOC
+vacsorázott O
+Xavi I-PER
+. O
+   
+Barcelonában I-LOC
+vacsorázott O
+Beckham I-PER
+. O
+   
+Barcelonában I-LOC
+vacsorázott O
+Dzsudzsák I-PER
+. O
+   
+Barcelonában I-LOC
+vacsorázott O
+Szalai I-PER
+. O
+   
+Hamburgban I-LOC
+játszott O
+Ronaldo I-PER
+. O
+   
+Hamburgban I-LOC
+játszott O
+Messi I-PER
+. O
+   
+Hamburgban I-LOC
+játszott O
+Neymar I-PER
+. O
+   
+Hamburgban I-LOC
+játszott O
+Xavi I-PER
+. O
+   
+Hamburgban I-LOC
+játszott O
+Beckham I-PER
+. O
+   
+Hamburgban I-LOC
+játszott O
+Dzsudzsák I-PER
+. O
+   
+Hamburgban I-LOC
+játszott O
+Szalai I-PER
+. O
+   
+Hamburgban I-LOC
+énekelt O
+Ronaldo I-PER
+. O
+   
+Hamburgban I-LOC
+énekelt O
+Messi I-PER
+. O
+   
+Hamburgban I-LOC
+énekelt O
+Neymar I-PER
+. O
+   
+Hamburgban I-LOC
+énekelt O
+Xavi I-PER
+. O
+   
+Hamburgban I-LOC
+énekelt O
+Beckham I-PER
+. O
+   
+Hamburgban I-LOC
+énekelt O
+Dzsudzsák I-PER
+. O
+   
+Hamburgban I-LOC
+énekelt O
+Szalai I-PER
+. O
+   
+Hamburgban I-LOC
+táncolt O
+Ronaldo I-PER
+. O
+   
+Hamburgban I-LOC
+táncolt O
+Messi I-PER
+. O
+   
+Hamburgban I-LOC
+táncolt O
+Neymar I-PER
+. O
+   
+Hamburgban I-LOC
+táncolt O
+Xavi I-PER
+. O
+   
+Hamburgban I-LOC
+táncolt O
+Beckham I-PER
+. O
+   
+Hamburgban I-LOC
+táncolt O
+Dzsudzsák I-PER
+. O
+   
+Hamburgban I-LOC
+táncolt O
+Szalai I-PER
+. O
+   
+Hamburgban I-LOC
+vacsorázott O
+Ronaldo I-PER
+. O
+   
+Hamburgban I-LOC
+vacsorázott O
+Messi I-PER
+. O
+   
+Hamburgban I-LOC
+vacsorázott O
+Neymar I-PER
+. O
+   
+Hamburgban I-LOC
+vacsorázott O
+Xavi I-PER
+. O
+   
+Hamburgban I-LOC
+vacsorázott O
+Beckham I-PER
+. O
+   
+Hamburgban I-LOC
+vacsorázott O
+Dzsudzsák I-PER
+. O
+   
+Hamburgban I-LOC
+vacsorázott O
+Szalai I-PER
+. O
+   
+Münchenben I-LOC
+játszott O
+Ronaldo I-PER
+. O
+   
+Münchenben I-LOC
+játszott O
+Messi I-PER
+. O
+   
+Münchenben I-LOC
+játszott O
+Neymar I-PER
+. O
+   
+Münchenben I-LOC
+játszott O
+Xavi I-PER
+. O
+   
+Münchenben I-LOC
+játszott O
+Beckham I-PER
+. O
+   
+Münchenben I-LOC
+játszott O
+Dzsudzsák I-PER
+. O
+   
+Münchenben I-LOC
+játszott O
+Szalai I-PER
+. O
+   
+Münchenben I-LOC
+énekelt O
+Ronaldo I-PER
+. O
+   
+Münchenben I-LOC
+énekelt O
+Messi I-PER
+. O
+   
+Münchenben I-LOC
+énekelt O
+Neymar I-PER
+. O
+   
+Münchenben I-LOC
+énekelt O
+Xavi I-PER
+. O
+   
+Münchenben I-LOC
+énekelt O
+Beckham I-PER
+. O
+   
+Münchenben I-LOC
+énekelt O
+Dzsudzsák I-PER
+. O
+   
+Münchenben I-LOC
+énekelt O
+Szalai I-PER
+. O
+   
+Münchenben I-LOC
+táncolt O
+Ronaldo I-PER
+. O
+   
+Münchenben I-LOC
+táncolt O
+Messi I-PER
+. O
+   
+Münchenben I-LOC
+táncolt O
+Neymar I-PER
+. O
+   
+Münchenben I-LOC
+táncolt O
+Xavi I-PER
+. O
+   
+Münchenben I-LOC
+táncolt O
+Beckham I-PER
+. O
+   
+Münchenben I-LOC
+táncolt O
+Dzsudzsák I-PER
+. O
+   
+Münchenben I-LOC
+táncolt O
+Szalai I-PER
+. O
+   
+Münchenben I-LOC
+vacsorázott O
+Ronaldo I-PER
+. O
+   
+Münchenben I-LOC
+vacsorázott O
+Messi I-PER
+. O
+   
+Münchenben I-LOC
+vacsorázott O
+Neymar I-PER
+. O
+   
+Münchenben I-LOC
+vacsorázott O
+Xavi I-PER
+. O
+   
+Münchenben I-LOC
+vacsorázott O
+Beckham I-PER
+. O
+   
+Münchenben I-LOC
+vacsorázott O
+Dzsudzsák I-PER
+. O
+   
+Münchenben I-LOC
+vacsorázott O
+Szalai I-PER
+. O
+   
+Madridban I-LOC
+játszott O
+Ronaldo I-PER
+. O
+   
+Madridban I-LOC
+játszott O
+Messi I-PER
+. O
+   
+Madridban I-LOC
+játszott O
+Neymar I-PER
+. O
+   
+Madridban I-LOC
+játszott O
+Xavi I-PER
+. O
+   
+Madridban I-LOC
+játszott O
+Beckham I-PER
+. O
+   
+Madridban I-LOC
+játszott O
+Dzsudzsák I-PER
+. O
+   
+Madridban I-LOC
+játszott O
+Szalai I-PER
+. O
+   
+Madridban I-LOC
+énekelt O
+Ronaldo I-PER
+. O
+   
+Madridban I-LOC
+énekelt O
+Messi I-PER
+. O
+   
+Madridban I-LOC
+énekelt O
+Neymar I-PER
+. O
+   
+Madridban I-LOC
+énekelt O
+Xavi I-PER
+. O
+   
+Madridban I-LOC
+énekelt O
+Beckham I-PER
+. O
+   
+Madridban I-LOC
+énekelt O
+Dzsudzsák I-PER
+. O
+   
+Madridban I-LOC
+énekelt O
+Szalai I-PER
+. O
+   
+Madridban I-LOC
+táncolt O
+Ronaldo I-PER
+. O
+   
+Madridban I-LOC
+táncolt O
+Messi I-PER
+. O
+   
+Madridban I-LOC
+táncolt O
+Neymar I-PER
+. O
+   
+Madridban I-LOC
+táncolt O
+Xavi I-PER
+. O
+   
+Madridban I-LOC
+táncolt O
+Beckham I-PER
+. O
+   
+Madridban I-LOC
+táncolt O
+Dzsudzsák I-PER
+. O
+   
+Madridban I-LOC
+táncolt O
+Szalai I-PER
+. O
+   
+Madridban I-LOC
+vacsorázott O
+Ronaldo I-PER
+. O
+   
+Madridban I-LOC
+vacsorázott O
+Messi I-PER
+. O
+   
+Madridban I-LOC
+vacsorázott O
+Neymar I-PER
+. O
+   
+Madridban I-LOC
+vacsorázott O
+Xavi I-PER
+. O
+   
+Madridban I-LOC
+vacsorázott O
+Beckham I-PER
+. O
+   
+Madridban I-LOC
+vacsorázott O
+Dzsudzsák I-PER
+. O
+   
+Madridban I-LOC
+vacsorázott O
+Szalai I-PER
+. O
+   
+Kölnben I-LOC
+játszott O
+Ronaldo I-PER
+. O
+   
+Kölnben I-LOC
+játszott O
+Messi I-PER
+. O
+   
+Kölnben I-LOC
+játszott O
+Neymar I-PER
+. O
+   
+Kölnben I-LOC
+játszott O
+Xavi I-PER
+. O
+   
+Kölnben I-LOC
+játszott O
+Beckham I-PER
+. O
+   
+Kölnben I-LOC
+játszott O
+Dzsudzsák I-PER
+. O
+   
+Kölnben I-LOC
+játszott O
+Szalai I-PER
+. O
+   
+Kölnben I-LOC
+énekelt O
+Ronaldo I-PER
+. O
+   
+Kölnben I-LOC
+énekelt O
+Messi I-PER
+. O
+   
+Kölnben I-LOC
+énekelt O
+Neymar I-PER
+. O
+   
+Kölnben I-LOC
+énekelt O
+Xavi I-PER
+. O
+   
+Kölnben I-LOC
+énekelt O
+Beckham I-PER
+. O
+   
+Kölnben I-LOC
+énekelt O
+Dzsudzsák I-PER
+. O
+   
+Kölnben I-LOC
+énekelt O
+Szalai I-PER
+. O
+   
+Kölnben I-LOC
+táncolt O
+Ronaldo I-PER
+. O
+   
+Kölnben I-LOC
+táncolt O
+Messi I-PER
+. O
+   
+Kölnben I-LOC
+táncolt O
+Neymar I-PER
+. O
+   
+Kölnben I-LOC
+táncolt O
+Xavi I-PER
+. O
+   
+Kölnben I-LOC
+táncolt O
+Beckham I-PER
+. O
+   
+Kölnben I-LOC
+táncolt O
+Dzsudzsák I-PER
+. O
+   
+Kölnben I-LOC
+táncolt O
+Szalai I-PER
+. O
+   
+Kölnben I-LOC
+vacsorázott O
+Ronaldo I-PER
+. O
+   
+Kölnben I-LOC
+vacsorázott O
+Messi I-PER
+. O
+   
+Kölnben I-LOC
+vacsorázott O
+Neymar I-PER
+. O
+   
+Kölnben I-LOC
+vacsorázott O
+Xavi I-PER
+. O
+   
+Kölnben I-LOC
+vacsorázott O
+Beckham I-PER
+. O
+   
+Kölnben I-LOC
+vacsorázott O
+Dzsudzsák I-PER
+. O
+   
+Kölnben I-LOC
+vacsorázott O
+Szalai I-PER
+. O
+   
+Debrecenben I-LOC
+játszott O
+Ronaldo I-PER
+. O
+   
+Debrecenben I-LOC
+játszott O
+Messi I-PER
+. O
+   
+Debrecenben I-LOC
+játszott O
+Neymar I-PER
+. O
+   
+Debrecenben I-LOC
+játszott O
+Xavi I-PER
+. O
+   
+Debrecenben I-LOC
+játszott O
+Beckham I-PER
+. O
+   
+Debrecenben I-LOC
+játszott O
+Dzsudzsák I-PER
+. O
+   
+Debrecenben I-LOC
+játszott O
+Szalai I-PER
+. O
+   
+Debrecenben I-LOC
+énekelt O
+Ronaldo I-PER
+. O
+   
+Debrecenben I-LOC
+énekelt O
+Messi I-PER
+. O
+   
+Debrecenben I-LOC
+énekelt O
+Neymar I-PER
+. O
+   
+Debrecenben I-LOC
+énekelt O
+Xavi I-PER
+. O
+   
+Debrecenben I-LOC
+énekelt O
+Beckham I-PER
+. O
+   
+Debrecenben I-LOC
+énekelt O
+Dzsudzsák I-PER
+. O
+   
+Debrecenben I-LOC
+énekelt O
+Szalai I-PER
+. O
+   
+Debrecenben I-LOC
+táncolt O
+Ronaldo I-PER
+. O
+   
+Debrecenben I-LOC
+táncolt O
+Messi I-PER
+. O
+   
+Debrecenben I-LOC
+táncolt O
+Neymar I-PER
+. O
+   
+Debrecenben I-LOC
+táncolt O
+Xavi I-PER
+. O
+   
+Debrecenben I-LOC
+táncolt O
+Beckham I-PER
+. O
+   
+Debrecenben I-LOC
+táncolt O
+Dzsudzsák I-PER
+. O
+   
+Debrecenben I-LOC
+táncolt O
+Szalai I-PER
+. O
+   
+Debrecenben I-LOC
+vacsorázott O
+Ronaldo I-PER
+. O
+   
+Debrecenben I-LOC
+vacsorázott O
+Messi I-PER
+. O
+   
+Debrecenben I-LOC
+vacsorázott O
+Neymar I-PER
+. O
+   
+Debrecenben I-LOC
+vacsorázott O
+Xavi I-PER
+. O
+   
+Debrecenben I-LOC
+vacsorázott O
+Beckham I-PER
+. O
+   
+Debrecenben I-LOC
+vacsorázott O
+Dzsudzsák I-PER
+. O
+   
+Debrecenben I-LOC
+vacsorázott O
+Szalai I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+játszott O
+Ronaldo I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+játszott O
+Messi I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+játszott O
+Neymar I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+játszott O
+Xavi I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+játszott O
+Beckham I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+játszott O
+Dzsudzsák I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+játszott O
+Szalai I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+énekelt O
+Ronaldo I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+énekelt O
+Messi I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+énekelt O
+Neymar I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+énekelt O
+Xavi I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+énekelt O
+Beckham I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+énekelt O
+Dzsudzsák I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+énekelt O
+Szalai I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+táncolt O
+Ronaldo I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+táncolt O
+Messi I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+táncolt O
+Neymar I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+táncolt O
+Xavi I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+táncolt O
+Beckham I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+táncolt O
+Dzsudzsák I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+táncolt O
+Szalai I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+vacsorázott O
+Ronaldo I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+vacsorázott O
+Messi I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+vacsorázott O
+Neymar I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+vacsorázott O
+Xavi I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+vacsorázott O
+Beckham I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+vacsorázott O
+Dzsudzsák I-PER
+. O
+   
+A O
+Manchesterben I-ORG
+vacsorázott O
+Szalai I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+játszott O
+Ronaldo I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+játszott O
+Messi I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+játszott O
+Neymar I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+játszott O
+Xavi I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+játszott O
+Beckham I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+játszott O
+Dzsudzsák I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+játszott O
+Szalai I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+énekelt O
+Ronaldo I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+énekelt O
+Messi I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+énekelt O
+Neymar I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+énekelt O
+Xavi I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+énekelt O
+Beckham I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+énekelt O
+Dzsudzsák I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+énekelt O
+Szalai I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+táncolt O
+Ronaldo I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+táncolt O
+Messi I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+táncolt O
+Neymar I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+táncolt O
+Xavi I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+táncolt O
+Beckham I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+táncolt O
+Dzsudzsák I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+táncolt O
+Szalai I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+vacsorázott O
+Ronaldo I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+vacsorázott O
+Messi I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+vacsorázott O
+Neymar I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+vacsorázott O
+Xavi I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+vacsorázott O
+Beckham I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+vacsorázott O
+Dzsudzsák I-PER
+. O
+   
+A O
+Barcelonában I-ORG
+vacsorázott O
+Szalai I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+játszott O
+Ronaldo I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+játszott O
+Messi I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+játszott O
+Neymar I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+játszott O
+Xavi I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+játszott O
+Beckham I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+játszott O
+Dzsudzsák I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+játszott O
+Szalai I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+énekelt O
+Ronaldo I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+énekelt O
+Messi I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+énekelt O
+Neymar I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+énekelt O
+Xavi I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+énekelt O
+Beckham I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+énekelt O
+Dzsudzsák I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+énekelt O
+Szalai I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+táncolt O
+Ronaldo I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+táncolt O
+Messi I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+táncolt O
+Neymar I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+táncolt O
+Xavi I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+táncolt O
+Beckham I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+táncolt O
+Dzsudzsák I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+táncolt O
+Szalai I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+vacsorázott O
+Ronaldo I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+vacsorázott O
+Messi I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+vacsorázott O
+Neymar I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+vacsorázott O
+Xavi I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+vacsorázott O
+Beckham I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+vacsorázott O
+Dzsudzsák I-PER
+. O
+   
+A O
+Hamburgban I-ORG
+vacsorázott O
+Szalai I-PER
+. O
+   
+A O
+Münchenben I-ORG
+játszott O
+Ronaldo I-PER
+. O
+   
+A O
+Münchenben I-ORG
+játszott O
+Messi I-PER
+. O
+   
+A O
+Münchenben I-ORG
+játszott O
+Neymar I-PER
+. O
+   
+A O
+Münchenben I-ORG
+játszott O
+Xavi I-PER
+. O
+   
+A O
+Münchenben I-ORG
+játszott O
+Beckham I-PER
+. O
+   
+A O
+Münchenben I-ORG
+játszott O
+Dzsudzsák I-PER
+. O
+   
+A O
+Münchenben I-ORG
+játszott O
+Szalai I-PER
+. O
+   
+A O
+Münchenben I-ORG
+énekelt O
+Ronaldo I-PER
+. O
+   
+A O
+Münchenben I-ORG
+énekelt O
+Messi I-PER
+. O
+   
+A O
+Münchenben I-ORG
+énekelt O
+Neymar I-PER
+. O
+   
+A O
+Münchenben I-ORG
+énekelt O
+Xavi I-PER
+. O
+   
+A O
+Münchenben I-ORG
+énekelt O
+Beckham I-PER
+. O
+   
+A O
+Münchenben I-ORG
+énekelt O
+Dzsudzsák I-PER
+. O
+   
+A O
+Münchenben I-ORG
+énekelt O
+Szalai I-PER
+. O
+   
+A O
+Münchenben I-ORG
+táncolt O
+Ronaldo I-PER
+. O
+   
+A O
+Münchenben I-ORG
+táncolt O
+Messi I-PER
+. O
+   
+A O
+Münchenben I-ORG
+táncolt O
+Neymar I-PER
+. O
+   
+A O
+Münchenben I-ORG
+táncolt O
+Xavi I-PER
+. O
+   
+A O
+Münchenben I-ORG
+táncolt O
+Beckham I-PER
+. O
+   
+A O
+Münchenben I-ORG
+táncolt O
+Dzsudzsák I-PER
+. O
+   
+A O
+Münchenben I-ORG
+táncolt O
+Szalai I-PER
+. O
+   
+A O
+Münchenben I-ORG
+vacsorázott O
+Ronaldo I-PER
+. O
+   
+A O
+Münchenben I-ORG
+vacsorázott O
+Messi I-PER
+. O
+   
+A O
+Münchenben I-ORG
+vacsorázott O
+Neymar I-PER
+. O
+   
+A O
+Münchenben I-ORG
+vacsorázott O
+Xavi I-PER
+. O
+   
+A O
+Münchenben I-ORG
+vacsorázott O
+Beckham I-PER
+. O
+   
+A O
+Münchenben I-ORG
+vacsorázott O
+Dzsudzsák I-PER
+. O
+   
+A O
+Münchenben I-ORG
+vacsorázott O
+Szalai I-PER
+. O
+   
+A O
+Madridban I-ORG
+játszott O
+Ronaldo I-PER
+. O
+   
+A O
+Madridban I-ORG
+játszott O
+Messi I-PER
+. O
+   
+A O
+Madridban I-ORG
+játszott O
+Neymar I-PER
+. O
+   
+A O
+Madridban I-ORG
+játszott O
+Xavi I-PER
+. O
+   
+A O
+Madridban I-ORG
+játszott O
+Beckham I-PER
+. O
+   
+A O
+Madridban I-ORG
+játszott O
+Dzsudzsák I-PER
+. O
+   
+A O
+Madridban I-ORG
+játszott O
+Szalai I-PER
+. O
+   
+A O
+Madridban I-ORG
+énekelt O
+Ronaldo I-PER
+. O
+   
+A O
+Madridban I-ORG
+énekelt O
+Messi I-PER
+. O
+   
+A O
+Madridban I-ORG
+énekelt O
+Neymar I-PER
+. O
+   
+A O
+Madridban I-ORG
+énekelt O
+Xavi I-PER
+. O
+   
+A O
+Madridban I-ORG
+énekelt O
+Beckham I-PER
+. O
+   
+A O
+Madridban I-ORG
+énekelt O
+Dzsudzsák I-PER
+. O
+   
+A O
+Madridban I-ORG
+énekelt O
+Szalai I-PER
+. O
+   
+A O
+Madridban I-ORG
+táncolt O
+Ronaldo I-PER
+. O
+   
+A O
+Madridban I-ORG
+táncolt O
+Messi I-PER
+. O
+   
+A O
+Madridban I-ORG
+táncolt O
+Neymar I-PER
+. O
+   
+A O
+Madridban I-ORG
+táncolt O
+Xavi I-PER
+. O
+   
+A O
+Madridban I-ORG
+táncolt O
+Beckham I-PER
+. O
+   
+A O
+Madridban I-ORG
+táncolt O
+Dzsudzsák I-PER
+. O
+   
+A O
+Madridban I-ORG
+táncolt O
+Szalai I-PER
+. O
+   
+A O
+Madridban I-ORG
+vacsorázott O
+Ronaldo I-PER
+. O
+   
+A O
+Madridban I-ORG
+vacsorázott O
+Messi I-PER
+. O
+   
+A O
+Madridban I-ORG
+vacsorázott O
+Neymar I-PER
+. O
+   
+A O
+Madridban I-ORG
+vacsorázott O
+Xavi I-PER
+. O
+   
+A O
+Madridban I-ORG
+vacsorázott O
+Beckham I-PER
+. O
+   
+A O
+Madridban I-ORG
+vacsorázott O
+Dzsudzsák I-PER
+. O
+   
+A O
+Madridban I-ORG
+vacsorázott O
+Szalai I-PER
+. O
+   
+A O
+Kölnben I-ORG
+játszott O
+Ronaldo I-PER
+. O
+   
+A O
+Kölnben I-ORG
+játszott O
+Messi I-PER
+. O
+   
+A O
+Kölnben I-ORG
+játszott O
+Neymar I-PER
+. O
+   
+A O
+Kölnben I-ORG
+játszott O
+Xavi I-PER
+. O
+   
+A O
+Kölnben I-ORG
+játszott O
+Beckham I-PER
+. O
+   
+A O
+Kölnben I-ORG
+játszott O
+Dzsudzsák I-PER
+. O
+   
+A O
+Kölnben I-ORG
+játszott O
+Szalai I-PER
+. O
+   
+A O
+Kölnben I-ORG
+énekelt O
+Ronaldo I-PER
+. O
+   
+A O
+Kölnben I-ORG
+énekelt O
+Messi I-PER
+. O
+   
+A O
+Kölnben I-ORG
+énekelt O
+Neymar I-PER
+. O
+   
+A O
+Kölnben I-ORG
+énekelt O
+Xavi I-PER
+. O
+   
+A O
+Kölnben I-ORG
+énekelt O
+Beckham I-PER
+. O
+   
+A O
+Kölnben I-ORG
+énekelt O
+Dzsudzsák I-PER
+. O
+   
+A O
+Kölnben I-ORG
+énekelt O
+Szalai I-PER
+. O
+   
+A O
+Kölnben I-ORG
+táncolt O
+Ronaldo I-PER
+. O
+   
+A O
+Kölnben I-ORG
+táncolt O
+Messi I-PER
+. O
+   
+A O
+Kölnben I-ORG
+táncolt O
+Neymar I-PER
+. O
+   
+A O
+Kölnben I-ORG
+táncolt O
+Xavi I-PER
+. O
+   
+A O
+Kölnben I-ORG
+táncolt O
+Beckham I-PER
+. O
+   
+A O
+Kölnben I-ORG
+táncolt O
+Dzsudzsák I-PER
+. O
+   
+A O
+Kölnben I-ORG
+táncolt O
+Szalai I-PER
+. O
+   
+A O
+Kölnben I-ORG
+vacsorázott O
+Ronaldo I-PER
+. O
+   
+A O
+Kölnben I-ORG
+vacsorázott O
+Messi I-PER
+. O
+   
+A O
+Kölnben I-ORG
+vacsorázott O
+Neymar I-PER
+. O
+   
+A O
+Kölnben I-ORG
+vacsorázott O
+Xavi I-PER
+. O
+   
+A O
+Kölnben I-ORG
+vacsorázott O
+Beckham I-PER
+. O
+   
+A O
+Kölnben I-ORG
+vacsorázott O
+Dzsudzsák I-PER
+. O
+   
+A O
+Kölnben I-ORG
+vacsorázott O
+Szalai I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+játszott O
+Ronaldo I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+játszott O
+Messi I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+játszott O
+Neymar I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+játszott O
+Xavi I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+játszott O
+Beckham I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+játszott O
+Dzsudzsák I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+játszott O
+Szalai I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+énekelt O
+Ronaldo I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+énekelt O
+Messi I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+énekelt O
+Neymar I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+énekelt O
+Xavi I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+énekelt O
+Beckham I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+énekelt O
+Dzsudzsák I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+énekelt O
+Szalai I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+táncolt O
+Ronaldo I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+táncolt O
+Messi I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+táncolt O
+Neymar I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+táncolt O
+Xavi I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+táncolt O
+Beckham I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+táncolt O
+Dzsudzsák I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+táncolt O
+Szalai I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+vacsorázott O
+Ronaldo I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+vacsorázott O
+Messi I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+vacsorázott O
+Neymar I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+vacsorázott O
+Xavi I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+vacsorázott O
+Beckham I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+vacsorázott O
+Dzsudzsák I-PER
+. O
+   
+A O
+Debrecenben I-ORG
+vacsorázott O
+Szalai I-PER
+. O
+   
+A O
+cég O
+felvásárolt O
+még O
+egy O
+gyárat O
+a O
+Mercedes I-ORG
+mellett O
+. O
+   
+A O
+cég O
+felvásárolt O
+még O
+egy O
+gyárat O
+a O
+Pick I-ORG
+mellett O
+. O
+   
+A O
+cég O
+felvásárolt O
+még O
+egy O
+gyárat O
+a O
+Tesco I-ORG
+mellett O
+. O
+   
+A O
+cég O
+felvásárolt O
+még O
+egy O
+gyárat O
+a O
+BMW I-ORG
+mellett O
+. O
+   
+A O
+cég O
+felvásárolt O
+még O
+egy O
+gyárat O
+a O
+Bosch I-ORG
+mellett O
+. O
+   
+A O
+cég O
+megvásárolt O
+még O
+egy O
+telket O
+a O
+Mercedes I-LOC
+mellett O
+. O
+   
+A O
+cég O
+megvásárolt O
+még O
+egy O
+telket O
+a O
+Pick I-LOC
+mellett O
+. O
+   
+A O
+cég O
+megvásárolt O
+még O
+egy O
+telket O
+a O
+Tesco I-LOC
+mellett O
+. O
+   
+A O
+cég O
+megvásárolt O
+még O
+egy O
+telket O
+a O
+BMW I-LOC
+mellett O
+. O
+   
+A O
+cég O
+megvásárolt O
+még O
+egy O
+telket O
+a O
+Bosch I-LOC
+mellett O
+. O
+   

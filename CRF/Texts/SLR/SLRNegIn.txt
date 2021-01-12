@@ -1,0 +1,457 @@
+A Manchester nem győzte le az Arsenalt .
+A Manchester nem győzte le az Intert .
+A Manchester nem győzte le az Atalantát .
+A Manchester nem győzte le az Újpestet .
+A Barcelona nem győzte le az Arsenalt .
+A Barcelona nem győzte le az Intert .
+A Barcelona nem győzte le az Atalantát .
+A Barcelona nem győzte le az Újpestet .
+A Hamburg nem győzte le az Arsenalt .
+A Hamburg nem győzte le az Intert .
+A Hamburg nem győzte le az Atalantát .
+A Hamburg nem győzte le az Újpestet .
+A München nem győzte le az Arsenalt .
+A München nem győzte le az Intert .
+A München nem győzte le az Atalantát .
+A München nem győzte le az Újpestet .
+A Madrid nem győzte le az Arsenalt .
+A Madrid nem győzte le az Intert .
+A Madrid nem győzte le az Atalantát .
+A Madrid nem győzte le az Újpestet .
+A Köln nem győzte le az Arsenalt .
+A Köln nem győzte le az Intert .
+A Köln nem győzte le az Atalantát .
+A Köln nem győzte le az Újpestet .
+A Debrecen nem győzte le az Arsenalt .
+A Debrecen nem győzte le az Intert .
+A Debrecen nem győzte le az Atalantát .
+A Debrecen nem győzte le az Újpestet .
+A Manchester nem kapott ki az Arsenaltól .
+A Manchester nem kapott ki az Intertől .
+A Manchester nem kapott ki az Atalantától .
+A Manchester nem kapott ki az Újpesttől .
+A Barcelona nem kapott ki az Arsenaltól .
+A Barcelona nem kapott ki az Intertől .
+A Barcelona nem kapott ki az Atalantától .
+A Barcelona nem kapott ki az Újpesttől .
+A Hamburg nem kapott ki az Arsenaltól .
+A Hamburg nem kapott ki az Intertől .
+A Hamburg nem kapott ki az Atalantától .
+A Hamburg nem kapott ki az Újpesttől .
+A München nem kapott ki az Arsenaltól .
+A München nem kapott ki az Intertől .
+A München nem kapott ki az Atalantától .
+A München nem kapott ki az Újpesttől .
+A Madrid nem kapott ki az Arsenaltól .
+A Madrid nem kapott ki az Intertől .
+A Madrid nem kapott ki az Atalantától .
+A Madrid nem kapott ki az Újpesttől .
+A Köln nem kapott ki az Arsenaltól .
+A Köln nem kapott ki az Intertől .
+A Köln nem kapott ki az Atalantától .
+A Köln nem kapott ki az Újpesttől .
+A Debrecen nem kapott ki az Arsenaltól .
+A Debrecen nem kapott ki az Intertől .
+A Debrecen nem kapott ki az Atalantától .
+A Debrecen nem kapott ki az Újpesttől .
+Nem Manchesterben játszott Ronaldo .
+Nem Manchesterben játszott Messi .
+Nem Manchesterben játszott Neymar .
+Nem Manchesterben játszott Xavi .
+Nem Manchesterben játszott Beckham .
+Nem Manchesterben játszott Dzsudzsák .
+Nem Manchesterben játszott Szalai .
+Nem Manchesterben énekelt Ronaldo .
+Nem Manchesterben énekelt Messi .
+Nem Manchesterben énekelt Neymar .
+Nem Manchesterben énekelt Xavi .
+Nem Manchesterben énekelt Beckham .
+Nem Manchesterben énekelt Dzsudzsák .
+Nem Manchesterben énekelt Szalai .
+Nem Manchesterben táncolt Ronaldo .
+Nem Manchesterben táncolt Messi .
+Nem Manchesterben táncolt Neymar .
+Nem Manchesterben táncolt Xavi .
+Nem Manchesterben táncolt Beckham .
+Nem Manchesterben táncolt Dzsudzsák .
+Nem Manchesterben táncolt Szalai .
+Nem Manchesterben vacsorázott Ronaldo .
+Nem Manchesterben vacsorázott Messi .
+Nem Manchesterben vacsorázott Neymar .
+Nem Manchesterben vacsorázott Xavi .
+Nem Manchesterben vacsorázott Beckham .
+Nem Manchesterben vacsorázott Dzsudzsák .
+Nem Manchesterben vacsorázott Szalai .
+Nem Barcelonában játszott Ronaldo .
+Nem Barcelonában játszott Messi .
+Nem Barcelonában játszott Neymar .
+Nem Barcelonában játszott Xavi .
+Nem Barcelonában játszott Beckham .
+Nem Barcelonában játszott Dzsudzsák .
+Nem Barcelonában játszott Szalai .
+Nem Barcelonában énekelt Ronaldo .
+Nem Barcelonában énekelt Messi .
+Nem Barcelonában énekelt Neymar .
+Nem Barcelonában énekelt Xavi .
+Nem Barcelonában énekelt Beckham .
+Nem Barcelonában énekelt Dzsudzsák .
+Nem Barcelonában énekelt Szalai .
+Nem Barcelonában táncolt Ronaldo .
+Nem Barcelonában táncolt Messi .
+Nem Barcelonában táncolt Neymar .
+Nem Barcelonában táncolt Xavi .
+Nem Barcelonában táncolt Beckham .
+Nem Barcelonában táncolt Dzsudzsák .
+Nem Barcelonában táncolt Szalai .
+Nem Barcelonában vacsorázott Ronaldo .
+Nem Barcelonában vacsorázott Messi .
+Nem Barcelonában vacsorázott Neymar .
+Nem Barcelonában vacsorázott Xavi .
+Nem Barcelonában vacsorázott Beckham .
+Nem Barcelonában vacsorázott Dzsudzsák .
+Nem Barcelonában vacsorázott Szalai .
+Nem Hamburgban játszott Ronaldo .
+Nem Hamburgban játszott Messi .
+Nem Hamburgban játszott Neymar .
+Nem Hamburgban játszott Xavi .
+Nem Hamburgban játszott Beckham .
+Nem Hamburgban játszott Dzsudzsák .
+Nem Hamburgban játszott Szalai .
+Nem Hamburgban énekelt Ronaldo .
+Nem Hamburgban énekelt Messi .
+Nem Hamburgban énekelt Neymar .
+Nem Hamburgban énekelt Xavi .
+Nem Hamburgban énekelt Beckham .
+Nem Hamburgban énekelt Dzsudzsák .
+Nem Hamburgban énekelt Szalai .
+Nem Hamburgban táncolt Ronaldo .
+Nem Hamburgban táncolt Messi .
+Nem Hamburgban táncolt Neymar .
+Nem Hamburgban táncolt Xavi .
+Nem Hamburgban táncolt Beckham .
+Nem Hamburgban táncolt Dzsudzsák .
+Nem Hamburgban táncolt Szalai .
+Nem Hamburgban vacsorázott Ronaldo .
+Nem Hamburgban vacsorázott Messi .
+Nem Hamburgban vacsorázott Neymar .
+Nem Hamburgban vacsorázott Xavi .
+Nem Hamburgban vacsorázott Beckham .
+Nem Hamburgban vacsorázott Dzsudzsák .
+Nem Hamburgban vacsorázott Szalai .
+Nem Münchenben játszott Ronaldo .
+Nem Münchenben játszott Messi .
+Nem Münchenben játszott Neymar .
+Nem Münchenben játszott Xavi .
+Nem Münchenben játszott Beckham .
+Nem Münchenben játszott Dzsudzsák .
+Nem Münchenben játszott Szalai .
+Nem Münchenben énekelt Ronaldo .
+Nem Münchenben énekelt Messi .
+Nem Münchenben énekelt Neymar .
+Nem Münchenben énekelt Xavi .
+Nem Münchenben énekelt Beckham .
+Nem Münchenben énekelt Dzsudzsák .
+Nem Münchenben énekelt Szalai .
+Nem Münchenben táncolt Ronaldo .
+Nem Münchenben táncolt Messi .
+Nem Münchenben táncolt Neymar .
+Nem Münchenben táncolt Xavi .
+Nem Münchenben táncolt Beckham .
+Nem Münchenben táncolt Dzsudzsák .
+Nem Münchenben táncolt Szalai .
+Nem Münchenben vacsorázott Ronaldo .
+Nem Münchenben vacsorázott Messi .
+Nem Münchenben vacsorázott Neymar .
+Nem Münchenben vacsorázott Xavi .
+Nem Münchenben vacsorázott Beckham .
+Nem Münchenben vacsorázott Dzsudzsák .
+Nem Münchenben vacsorázott Szalai .
+Nem Madridban játszott Ronaldo .
+Nem Madridban játszott Messi .
+Nem Madridban játszott Neymar .
+Nem Madridban játszott Xavi .
+Nem Madridban játszott Beckham .
+Nem Madridban játszott Dzsudzsák .
+Nem Madridban játszott Szalai .
+Nem Madridban énekelt Ronaldo .
+Nem Madridban énekelt Messi .
+Nem Madridban énekelt Neymar .
+Nem Madridban énekelt Xavi .
+Nem Madridban énekelt Beckham .
+Nem Madridban énekelt Dzsudzsák .
+Nem Madridban énekelt Szalai .
+Nem Madridban táncolt Ronaldo .
+Nem Madridban táncolt Messi .
+Nem Madridban táncolt Neymar .
+Nem Madridban táncolt Xavi .
+Nem Madridban táncolt Beckham .
+Nem Madridban táncolt Dzsudzsák .
+Nem Madridban táncolt Szalai .
+Nem Madridban vacsorázott Ronaldo .
+Nem Madridban vacsorázott Messi .
+Nem Madridban vacsorázott Neymar .
+Nem Madridban vacsorázott Xavi .
+Nem Madridban vacsorázott Beckham .
+Nem Madridban vacsorázott Dzsudzsák .
+Nem Madridban vacsorázott Szalai .
+Nem Kölnben játszott Ronaldo .
+Nem Kölnben játszott Messi .
+Nem Kölnben játszott Neymar .
+Nem Kölnben játszott Xavi .
+Nem Kölnben játszott Beckham .
+Nem Kölnben játszott Dzsudzsák .
+Nem Kölnben játszott Szalai .
+Nem Kölnben énekelt Ronaldo .
+Nem Kölnben énekelt Messi .
+Nem Kölnben énekelt Neymar .
+Nem Kölnben énekelt Xavi .
+Nem Kölnben énekelt Beckham .
+Nem Kölnben énekelt Dzsudzsák .
+Nem Kölnben énekelt Szalai .
+Nem Kölnben táncolt Ronaldo .
+Nem Kölnben táncolt Messi .
+Nem Kölnben táncolt Neymar .
+Nem Kölnben táncolt Xavi .
+Nem Kölnben táncolt Beckham .
+Nem Kölnben táncolt Dzsudzsák .
+Nem Kölnben táncolt Szalai .
+Nem Kölnben vacsorázott Ronaldo .
+Nem Kölnben vacsorázott Messi .
+Nem Kölnben vacsorázott Neymar .
+Nem Kölnben vacsorázott Xavi .
+Nem Kölnben vacsorázott Beckham .
+Nem Kölnben vacsorázott Dzsudzsák .
+Nem Kölnben vacsorázott Szalai .
+Nem Debrecenben játszott Ronaldo .
+Nem Debrecenben játszott Messi .
+Nem Debrecenben játszott Neymar .
+Nem Debrecenben játszott Xavi .
+Nem Debrecenben játszott Beckham .
+Nem Debrecenben játszott Dzsudzsák .
+Nem Debrecenben játszott Szalai .
+Nem Debrecenben énekelt Ronaldo .
+Nem Debrecenben énekelt Messi .
+Nem Debrecenben énekelt Neymar .
+Nem Debrecenben énekelt Xavi .
+Nem Debrecenben énekelt Beckham .
+Nem Debrecenben énekelt Dzsudzsák .
+Nem Debrecenben énekelt Szalai .
+Nem Debrecenben táncolt Ronaldo .
+Nem Debrecenben táncolt Messi .
+Nem Debrecenben táncolt Neymar .
+Nem Debrecenben táncolt Xavi .
+Nem Debrecenben táncolt Beckham .
+Nem Debrecenben táncolt Dzsudzsák .
+Nem Debrecenben táncolt Szalai .
+Nem Debrecenben vacsorázott Ronaldo .
+Nem Debrecenben vacsorázott Messi .
+Nem Debrecenben vacsorázott Neymar .
+Nem Debrecenben vacsorázott Xavi .
+Nem Debrecenben vacsorázott Beckham .
+Nem Debrecenben vacsorázott Dzsudzsák .
+Nem Debrecenben vacsorázott Szalai .
+Nem a Manchesterben játszott Ronaldo .
+Nem a Manchesterben játszott Messi .
+Nem a Manchesterben játszott Neymar .
+Nem a Manchesterben játszott Xavi .
+Nem a Manchesterben játszott Beckham .
+Nem a Manchesterben játszott Dzsudzsák .
+Nem a Manchesterben játszott Szalai .
+Nem a Manchesterben énekelt Ronaldo .
+Nem a Manchesterben énekelt Messi .
+Nem a Manchesterben énekelt Neymar .
+Nem a Manchesterben énekelt Xavi .
+Nem a Manchesterben énekelt Beckham .
+Nem a Manchesterben énekelt Dzsudzsák .
+Nem a Manchesterben énekelt Szalai .
+Nem a Manchesterben táncolt Ronaldo .
+Nem a Manchesterben táncolt Messi .
+Nem a Manchesterben táncolt Neymar .
+Nem a Manchesterben táncolt Xavi .
+Nem a Manchesterben táncolt Beckham .
+Nem a Manchesterben táncolt Dzsudzsák .
+Nem a Manchesterben táncolt Szalai .
+Nem a Manchesterben vacsorázott Ronaldo .
+Nem a Manchesterben vacsorázott Messi .
+Nem a Manchesterben vacsorázott Neymar .
+Nem a Manchesterben vacsorázott Xavi .
+Nem a Manchesterben vacsorázott Beckham .
+Nem a Manchesterben vacsorázott Dzsudzsák .
+Nem a Manchesterben vacsorázott Szalai .
+Nem a Barcelonában játszott Ronaldo .
+Nem a Barcelonában játszott Messi .
+Nem a Barcelonában játszott Neymar .
+Nem a Barcelonában játszott Xavi .
+Nem a Barcelonában játszott Beckham .
+Nem a Barcelonában játszott Dzsudzsák .
+Nem a Barcelonában játszott Szalai .
+Nem a Barcelonában énekelt Ronaldo .
+Nem a Barcelonában énekelt Messi .
+Nem a Barcelonában énekelt Neymar .
+Nem a Barcelonában énekelt Xavi .
+Nem a Barcelonában énekelt Beckham .
+Nem a Barcelonában énekelt Dzsudzsák .
+Nem a Barcelonában énekelt Szalai .
+Nem a Barcelonában táncolt Ronaldo .
+Nem a Barcelonában táncolt Messi .
+Nem a Barcelonában táncolt Neymar .
+Nem a Barcelonában táncolt Xavi .
+Nem a Barcelonában táncolt Beckham .
+Nem a Barcelonában táncolt Dzsudzsák .
+Nem a Barcelonában táncolt Szalai .
+Nem a Barcelonában vacsorázott Ronaldo .
+Nem a Barcelonában vacsorázott Messi .
+Nem a Barcelonában vacsorázott Neymar .
+Nem a Barcelonában vacsorázott Xavi .
+Nem a Barcelonában vacsorázott Beckham .
+Nem a Barcelonában vacsorázott Dzsudzsák .
+Nem a Barcelonában vacsorázott Szalai .
+Nem a Hamburgban játszott Ronaldo .
+Nem a Hamburgban játszott Messi .
+Nem a Hamburgban játszott Neymar .
+Nem a Hamburgban játszott Xavi .
+Nem a Hamburgban játszott Beckham .
+Nem a Hamburgban játszott Dzsudzsák .
+Nem a Hamburgban játszott Szalai .
+Nem a Hamburgban énekelt Ronaldo .
+Nem a Hamburgban énekelt Messi .
+Nem a Hamburgban énekelt Neymar .
+Nem a Hamburgban énekelt Xavi .
+Nem a Hamburgban énekelt Beckham .
+Nem a Hamburgban énekelt Dzsudzsák .
+Nem a Hamburgban énekelt Szalai .
+Nem a Hamburgban táncolt Ronaldo .
+Nem a Hamburgban táncolt Messi .
+Nem a Hamburgban táncolt Neymar .
+Nem a Hamburgban táncolt Xavi .
+Nem a Hamburgban táncolt Beckham .
+Nem a Hamburgban táncolt Dzsudzsák .
+Nem a Hamburgban táncolt Szalai .
+Nem a Hamburgban vacsorázott Ronaldo .
+Nem a Hamburgban vacsorázott Messi .
+Nem a Hamburgban vacsorázott Neymar .
+Nem a Hamburgban vacsorázott Xavi .
+Nem a Hamburgban vacsorázott Beckham .
+Nem a Hamburgban vacsorázott Dzsudzsák .
+Nem a Hamburgban vacsorázott Szalai .
+Nem a Münchenben játszott Ronaldo .
+Nem a Münchenben játszott Messi .
+Nem a Münchenben játszott Neymar .
+Nem a Münchenben játszott Xavi .
+Nem a Münchenben játszott Beckham .
+Nem a Münchenben játszott Dzsudzsák .
+Nem a Münchenben játszott Szalai .
+Nem a Münchenben énekelt Ronaldo .
+Nem a Münchenben énekelt Messi .
+Nem a Münchenben énekelt Neymar .
+Nem a Münchenben énekelt Xavi .
+Nem a Münchenben énekelt Beckham .
+Nem a Münchenben énekelt Dzsudzsák .
+Nem a Münchenben énekelt Szalai .
+Nem a Münchenben táncolt Ronaldo .
+Nem a Münchenben táncolt Messi .
+Nem a Münchenben táncolt Neymar .
+Nem a Münchenben táncolt Xavi .
+Nem a Münchenben táncolt Beckham .
+Nem a Münchenben táncolt Dzsudzsák .
+Nem a Münchenben táncolt Szalai .
+Nem a Münchenben vacsorázott Ronaldo .
+Nem a Münchenben vacsorázott Messi .
+Nem a Münchenben vacsorázott Neymar .
+Nem a Münchenben vacsorázott Xavi .
+Nem a Münchenben vacsorázott Beckham .
+Nem a Münchenben vacsorázott Dzsudzsák .
+Nem a Münchenben vacsorázott Szalai .
+Nem a Madridban játszott Ronaldo .
+Nem a Madridban játszott Messi .
+Nem a Madridban játszott Neymar .
+Nem a Madridban játszott Xavi .
+Nem a Madridban játszott Beckham .
+Nem a Madridban játszott Dzsudzsák .
+Nem a Madridban játszott Szalai .
+Nem a Madridban énekelt Ronaldo .
+Nem a Madridban énekelt Messi .
+Nem a Madridban énekelt Neymar .
+Nem a Madridban énekelt Xavi .
+Nem a Madridban énekelt Beckham .
+Nem a Madridban énekelt Dzsudzsák .
+Nem a Madridban énekelt Szalai .
+Nem a Madridban táncolt Ronaldo .
+Nem a Madridban táncolt Messi .
+Nem a Madridban táncolt Neymar .
+Nem a Madridban táncolt Xavi .
+Nem a Madridban táncolt Beckham .
+Nem a Madridban táncolt Dzsudzsák .
+Nem a Madridban táncolt Szalai .
+Nem a Madridban vacsorázott Ronaldo .
+Nem a Madridban vacsorázott Messi .
+Nem a Madridban vacsorázott Neymar .
+Nem a Madridban vacsorázott Xavi .
+Nem a Madridban vacsorázott Beckham .
+Nem a Madridban vacsorázott Dzsudzsák .
+Nem a Madridban vacsorázott Szalai .
+Nem a Kölnben játszott Ronaldo .
+Nem a Kölnben játszott Messi .
+Nem a Kölnben játszott Neymar .
+Nem a Kölnben játszott Xavi .
+Nem a Kölnben játszott Beckham .
+Nem a Kölnben játszott Dzsudzsák .
+Nem a Kölnben játszott Szalai .
+Nem a Kölnben énekelt Ronaldo .
+Nem a Kölnben énekelt Messi .
+Nem a Kölnben énekelt Neymar .
+Nem a Kölnben énekelt Xavi .
+Nem a Kölnben énekelt Beckham .
+Nem a Kölnben énekelt Dzsudzsák .
+Nem a Kölnben énekelt Szalai .
+Nem a Kölnben táncolt Ronaldo .
+Nem a Kölnben táncolt Messi .
+Nem a Kölnben táncolt Neymar .
+Nem a Kölnben táncolt Xavi .
+Nem a Kölnben táncolt Beckham .
+Nem a Kölnben táncolt Dzsudzsák .
+Nem a Kölnben táncolt Szalai .
+Nem a Kölnben vacsorázott Ronaldo .
+Nem a Kölnben vacsorázott Messi .
+Nem a Kölnben vacsorázott Neymar .
+Nem a Kölnben vacsorázott Xavi .
+Nem a Kölnben vacsorázott Beckham .
+Nem a Kölnben vacsorázott Dzsudzsák .
+Nem a Kölnben vacsorázott Szalai .
+Nem a Debrecenben játszott Ronaldo .
+Nem a Debrecenben játszott Messi .
+Nem a Debrecenben játszott Neymar .
+Nem a Debrecenben játszott Xavi .
+Nem a Debrecenben játszott Beckham .
+Nem a Debrecenben játszott Dzsudzsák .
+Nem a Debrecenben játszott Szalai .
+Nem a Debrecenben énekelt Ronaldo .
+Nem a Debrecenben énekelt Messi .
+Nem a Debrecenben énekelt Neymar .
+Nem a Debrecenben énekelt Xavi .
+Nem a Debrecenben énekelt Beckham .
+Nem a Debrecenben énekelt Dzsudzsák .
+Nem a Debrecenben énekelt Szalai .
+Nem a Debrecenben táncolt Ronaldo .
+Nem a Debrecenben táncolt Messi .
+Nem a Debrecenben táncolt Neymar .
+Nem a Debrecenben táncolt Xavi .
+Nem a Debrecenben táncolt Beckham .
+Nem a Debrecenben táncolt Dzsudzsák .
+Nem a Debrecenben táncolt Szalai .
+Nem a Debrecenben vacsorázott Ronaldo .
+Nem a Debrecenben vacsorázott Messi .
+Nem a Debrecenben vacsorázott Neymar .
+Nem a Debrecenben vacsorázott Xavi .
+Nem a Debrecenben vacsorázott Beckham .
+Nem a Debrecenben vacsorázott Dzsudzsák .
+Nem a Debrecenben vacsorázott Szalai .
+A cég nem vásárolt fel még egy gyárat a Mercedes mellett .
+A cég nem vásárolt fel még egy gyárat a Pick mellett .
+A cég nem vásárolt fel még egy gyárat a Tesco mellett .
+A cég nem vásárolt fel még egy gyárat a BMW mellett .
+A cég nem vásárolt fel még egy gyárat a Bosch mellett .
+A cég nem vásárolt meg még egy telket a Mercedes mellett .
+A cég nem vásárolt meg még egy telket a Pick mellett .
+A cég nem vásárolt meg még egy telket a Tesco mellett .
+A cég nem vásárolt meg még egy telket a BMW mellett .

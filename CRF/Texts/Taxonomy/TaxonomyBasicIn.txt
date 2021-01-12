@@ -1,0 +1,407 @@
+Manchesterben játszott Ronaldo .
+Manchesterben játszott Messi .
+Manchesterben játszott Neymar .
+Manchesterben játszott Xavi .
+Manchesterben játszott Beckham .
+Manchesterben játszott Dzsudzsák .
+Manchesterben játszott Szalai .
+Manchesterben dolgozott Ronaldo .
+Manchesterben dolgozott Messi .
+Manchesterben dolgozott Neymar .
+Manchesterben dolgozott Xavi .
+Manchesterben dolgozott Beckham .
+Manchesterben dolgozott Dzsudzsák .
+Manchesterben dolgozott Szalai .
+Manchesterben futballozott Ronaldo .
+Manchesterben futballozott Messi .
+Manchesterben futballozott Neymar .
+Manchesterben futballozott Xavi .
+Manchesterben futballozott Beckham .
+Manchesterben futballozott Dzsudzsák .
+Manchesterben futballozott Szalai .
+Manchesterben focizott Ronaldo .
+Manchesterben focizott Messi .
+Manchesterben focizott Neymar .
+Manchesterben focizott Xavi .
+Manchesterben focizott Beckham .
+Manchesterben focizott Dzsudzsák .
+Manchesterben focizott Szalai .
+Barcelonában játszott Ronaldo .
+Barcelonában játszott Messi .
+Barcelonában játszott Neymar .
+Barcelonában játszott Xavi .
+Barcelonában játszott Beckham .
+Barcelonában játszott Dzsudzsák .
+Barcelonában játszott Szalai .
+Barcelonában dolgozott Ronaldo .
+Barcelonában dolgozott Messi .
+Barcelonában dolgozott Neymar .
+Barcelonában dolgozott Xavi .
+Barcelonában dolgozott Beckham .
+Barcelonában dolgozott Dzsudzsák .
+Barcelonában dolgozott Szalai .
+Barcelonában futballozott Ronaldo .
+Barcelonában futballozott Messi .
+Barcelonában futballozott Neymar .
+Barcelonában futballozott Xavi .
+Barcelonában futballozott Beckham .
+Barcelonában futballozott Dzsudzsák .
+Barcelonában futballozott Szalai .
+Barcelonában focizott Ronaldo .
+Barcelonában focizott Messi .
+Barcelonában focizott Neymar .
+Barcelonában focizott Xavi .
+Barcelonában focizott Beckham .
+Barcelonában focizott Dzsudzsák .
+Barcelonában focizott Szalai .
+Hamburgban játszott Ronaldo .
+Hamburgban játszott Messi .
+Hamburgban játszott Neymar .
+Hamburgban játszott Xavi .
+Hamburgban játszott Beckham .
+Hamburgban játszott Dzsudzsák .
+Hamburgban játszott Szalai .
+Hamburgban dolgozott Ronaldo .
+Hamburgban dolgozott Messi .
+Hamburgban dolgozott Neymar .
+Hamburgban dolgozott Xavi .
+Hamburgban dolgozott Beckham .
+Hamburgban dolgozott Dzsudzsák .
+Hamburgban dolgozott Szalai .
+Hamburgban futballozott Ronaldo .
+Hamburgban futballozott Messi .
+Hamburgban futballozott Neymar .
+Hamburgban futballozott Xavi .
+Hamburgban futballozott Beckham .
+Hamburgban futballozott Dzsudzsák .
+Hamburgban futballozott Szalai .
+Hamburgban focizott Ronaldo .
+Hamburgban focizott Messi .
+Hamburgban focizott Neymar .
+Hamburgban focizott Xavi .
+Hamburgban focizott Beckham .
+Hamburgban focizott Dzsudzsák .
+Hamburgban focizott Szalai .
+Münchenben játszott Ronaldo .
+Münchenben játszott Messi .
+Münchenben játszott Neymar .
+Münchenben játszott Xavi .
+Münchenben játszott Beckham .
+Münchenben játszott Dzsudzsák .
+Münchenben játszott Szalai .
+Münchenben dolgozott Ronaldo .
+Münchenben dolgozott Messi .
+Münchenben dolgozott Neymar .
+Münchenben dolgozott Xavi .
+Münchenben dolgozott Beckham .
+Münchenben dolgozott Dzsudzsák .
+Münchenben dolgozott Szalai .
+Münchenben futballozott Ronaldo .
+Münchenben futballozott Messi .
+Münchenben futballozott Neymar .
+Münchenben futballozott Xavi .
+Münchenben futballozott Beckham .
+Münchenben futballozott Dzsudzsák .
+Münchenben futballozott Szalai .
+Münchenben focizott Ronaldo .
+Münchenben focizott Messi .
+Münchenben focizott Neymar .
+Münchenben focizott Xavi .
+Münchenben focizott Beckham .
+Münchenben focizott Dzsudzsák .
+Münchenben focizott Szalai .
+Madridban játszott Ronaldo .
+Madridban játszott Messi .
+Madridban játszott Neymar .
+Madridban játszott Xavi .
+Madridban játszott Beckham .
+Madridban játszott Dzsudzsák .
+Madridban játszott Szalai .
+Madridban dolgozott Ronaldo .
+Madridban dolgozott Messi .
+Madridban dolgozott Neymar .
+Madridban dolgozott Xavi .
+Madridban dolgozott Beckham .
+Madridban dolgozott Dzsudzsák .
+Madridban dolgozott Szalai .
+Madridban futballozott Ronaldo .
+Madridban futballozott Messi .
+Madridban futballozott Neymar .
+Madridban futballozott Xavi .
+Madridban futballozott Beckham .
+Madridban futballozott Dzsudzsák .
+Madridban futballozott Szalai .
+Madridban focizott Ronaldo .
+Madridban focizott Messi .
+Madridban focizott Neymar .
+Madridban focizott Xavi .
+Madridban focizott Beckham .
+Madridban focizott Dzsudzsák .
+Madridban focizott Szalai .
+Kölnben játszott Ronaldo .
+Kölnben játszott Messi .
+Kölnben játszott Neymar .
+Kölnben játszott Xavi .
+Kölnben játszott Beckham .
+Kölnben játszott Dzsudzsák .
+Kölnben játszott Szalai .
+Kölnben dolgozott Ronaldo .
+Kölnben dolgozott Messi .
+Kölnben dolgozott Neymar .
+Kölnben dolgozott Xavi .
+Kölnben dolgozott Beckham .
+Kölnben dolgozott Dzsudzsák .
+Kölnben dolgozott Szalai .
+Kölnben futballozott Ronaldo .
+Kölnben futballozott Messi .
+Kölnben futballozott Neymar .
+Kölnben futballozott Xavi .
+Kölnben futballozott Beckham .
+Kölnben futballozott Dzsudzsák .
+Kölnben futballozott Szalai .
+Kölnben focizott Ronaldo .
+Kölnben focizott Messi .
+Kölnben focizott Neymar .
+Kölnben focizott Xavi .
+Kölnben focizott Beckham .
+Kölnben focizott Dzsudzsák .
+Kölnben focizott Szalai .
+Debrecenben játszott Ronaldo .
+Debrecenben játszott Messi .
+Debrecenben játszott Neymar .
+Debrecenben játszott Xavi .
+Debrecenben játszott Beckham .
+Debrecenben játszott Dzsudzsák .
+Debrecenben játszott Szalai .
+Debrecenben dolgozott Ronaldo .
+Debrecenben dolgozott Messi .
+Debrecenben dolgozott Neymar .
+Debrecenben dolgozott Xavi .
+Debrecenben dolgozott Beckham .
+Debrecenben dolgozott Dzsudzsák .
+Debrecenben dolgozott Szalai .
+Debrecenben futballozott Ronaldo .
+Debrecenben futballozott Messi .
+Debrecenben futballozott Neymar .
+Debrecenben futballozott Xavi .
+Debrecenben futballozott Beckham .
+Debrecenben futballozott Dzsudzsák .
+Debrecenben futballozott Szalai .
+Debrecenben focizott Ronaldo .
+Debrecenben focizott Messi .
+Debrecenben focizott Neymar .
+Debrecenben focizott Xavi .
+Debrecenben focizott Beckham .
+Debrecenben focizott Dzsudzsák .
+Debrecenben focizott Szalai .
+A Manchesterben játszott Ronaldo .
+A Manchesterben játszott Messi .
+A Manchesterben játszott Neymar .
+A Manchesterben játszott Xavi .
+A Manchesterben játszott Beckham .
+A Manchesterben játszott Dzsudzsák .
+A Manchesterben játszott Szalai .
+A Manchesterben dolgozott Ronaldo .
+A Manchesterben dolgozott Messi .
+A Manchesterben dolgozott Neymar .
+A Manchesterben dolgozott Xavi .
+A Manchesterben dolgozott Beckham .
+A Manchesterben dolgozott Dzsudzsák .
+A Manchesterben dolgozott Szalai .
+A Manchesterben futballozott Ronaldo .
+A Manchesterben futballozott Messi .
+A Manchesterben futballozott Neymar .
+A Manchesterben futballozott Xavi .
+A Manchesterben futballozott Beckham .
+A Manchesterben futballozott Dzsudzsák .
+A Manchesterben futballozott Szalai .
+A Manchesterben focizott Ronaldo .
+A Manchesterben focizott Messi .
+A Manchesterben focizott Neymar .
+A Manchesterben focizott Xavi .
+A Manchesterben focizott Beckham .
+A Manchesterben focizott Dzsudzsák .
+A Manchesterben focizott Szalai .
+A Barcelonában játszott Ronaldo .
+A Barcelonában játszott Messi .
+A Barcelonában játszott Neymar .
+A Barcelonában játszott Xavi .
+A Barcelonában játszott Beckham .
+A Barcelonában játszott Dzsudzsák .
+A Barcelonában játszott Szalai .
+A Barcelonában dolgozott Ronaldo .
+A Barcelonában dolgozott Messi .
+A Barcelonában dolgozott Neymar .
+A Barcelonában dolgozott Xavi .
+A Barcelonában dolgozott Beckham .
+A Barcelonában dolgozott Dzsudzsák .
+A Barcelonában dolgozott Szalai .
+A Barcelonában futballozott Ronaldo .
+A Barcelonában futballozott Messi .
+A Barcelonában futballozott Neymar .
+A Barcelonában futballozott Xavi .
+A Barcelonában futballozott Beckham .
+A Barcelonában futballozott Dzsudzsák .
+A Barcelonában futballozott Szalai .
+A Barcelonában focizott Ronaldo .
+A Barcelonában focizott Messi .
+A Barcelonában focizott Neymar .
+A Barcelonában focizott Xavi .
+A Barcelonában focizott Beckham .
+A Barcelonában focizott Dzsudzsák .
+A Barcelonában focizott Szalai .
+A Hamburgban játszott Ronaldo .
+A Hamburgban játszott Messi .
+A Hamburgban játszott Neymar .
+A Hamburgban játszott Xavi .
+A Hamburgban játszott Beckham .
+A Hamburgban játszott Dzsudzsák .
+A Hamburgban játszott Szalai .
+A Hamburgban dolgozott Ronaldo .
+A Hamburgban dolgozott Messi .
+A Hamburgban dolgozott Neymar .
+A Hamburgban dolgozott Xavi .
+A Hamburgban dolgozott Beckham .
+A Hamburgban dolgozott Dzsudzsák .
+A Hamburgban dolgozott Szalai .
+A Hamburgban futballozott Ronaldo .
+A Hamburgban futballozott Messi .
+A Hamburgban futballozott Neymar .
+A Hamburgban futballozott Xavi .
+A Hamburgban futballozott Beckham .
+A Hamburgban futballozott Dzsudzsák .
+A Hamburgban futballozott Szalai .
+A Hamburgban focizott Ronaldo .
+A Hamburgban focizott Messi .
+A Hamburgban focizott Neymar .
+A Hamburgban focizott Xavi .
+A Hamburgban focizott Beckham .
+A Hamburgban focizott Dzsudzsák .
+A Hamburgban focizott Szalai .
+A Münchenben játszott Ronaldo .
+A Münchenben játszott Messi .
+A Münchenben játszott Neymar .
+A Münchenben játszott Xavi .
+A Münchenben játszott Beckham .
+A Münchenben játszott Dzsudzsák .
+A Münchenben játszott Szalai .
+A Münchenben dolgozott Ronaldo .
+A Münchenben dolgozott Messi .
+A Münchenben dolgozott Neymar .
+A Münchenben dolgozott Xavi .
+A Münchenben dolgozott Beckham .
+A Münchenben dolgozott Dzsudzsák .
+A Münchenben dolgozott Szalai .
+A Münchenben futballozott Ronaldo .
+A Münchenben futballozott Messi .
+A Münchenben futballozott Neymar .
+A Münchenben futballozott Xavi .
+A Münchenben futballozott Beckham .
+A Münchenben futballozott Dzsudzsák .
+A Münchenben futballozott Szalai .
+A Münchenben focizott Ronaldo .
+A Münchenben focizott Messi .
+A Münchenben focizott Neymar .
+A Münchenben focizott Xavi .
+A Münchenben focizott Beckham .
+A Münchenben focizott Dzsudzsák .
+A Münchenben focizott Szalai .
+A Madridban játszott Ronaldo .
+A Madridban játszott Messi .
+A Madridban játszott Neymar .
+A Madridban játszott Xavi .
+A Madridban játszott Beckham .
+A Madridban játszott Dzsudzsák .
+A Madridban játszott Szalai .
+A Madridban dolgozott Ronaldo .
+A Madridban dolgozott Messi .
+A Madridban dolgozott Neymar .
+A Madridban dolgozott Xavi .
+A Madridban dolgozott Beckham .
+A Madridban dolgozott Dzsudzsák .
+A Madridban dolgozott Szalai .
+A Madridban futballozott Ronaldo .
+A Madridban futballozott Messi .
+A Madridban futballozott Neymar .
+A Madridban futballozott Xavi .
+A Madridban futballozott Beckham .
+A Madridban futballozott Dzsudzsák .
+A Madridban futballozott Szalai .
+A Madridban focizott Ronaldo .
+A Madridban focizott Messi .
+A Madridban focizott Neymar .
+A Madridban focizott Xavi .
+A Madridban focizott Beckham .
+A Madridban focizott Dzsudzsák .
+A Madridban focizott Szalai .
+A Kölnben játszott Ronaldo .
+A Kölnben játszott Messi .
+A Kölnben játszott Neymar .
+A Kölnben játszott Xavi .
+A Kölnben játszott Beckham .
+A Kölnben játszott Dzsudzsák .
+A Kölnben játszott Szalai .
+A Kölnben dolgozott Ronaldo .
+A Kölnben dolgozott Messi .
+A Kölnben dolgozott Neymar .
+A Kölnben dolgozott Xavi .
+A Kölnben dolgozott Beckham .
+A Kölnben dolgozott Dzsudzsák .
+A Kölnben dolgozott Szalai .
+A Kölnben futballozott Ronaldo .
+A Kölnben futballozott Messi .
+A Kölnben futballozott Neymar .
+A Kölnben futballozott Xavi .
+A Kölnben futballozott Beckham .
+A Kölnben futballozott Dzsudzsák .
+A Kölnben futballozott Szalai .
+A Kölnben focizott Ronaldo .
+A Kölnben focizott Messi .
+A Kölnben focizott Neymar .
+A Kölnben focizott Xavi .
+A Kölnben focizott Beckham .
+A Kölnben focizott Dzsudzsák .
+A Kölnben focizott Szalai .
+A Debrecenben játszott Ronaldo .
+A Debrecenben játszott Messi .
+A Debrecenben játszott Neymar .
+A Debrecenben játszott Xavi .
+A Debrecenben játszott Beckham .
+A Debrecenben játszott Dzsudzsák .
+A Debrecenben játszott Szalai .
+A Debrecenben dolgozott Ronaldo .
+A Debrecenben dolgozott Messi .
+A Debrecenben dolgozott Neymar .
+A Debrecenben dolgozott Xavi .
+A Debrecenben dolgozott Beckham .
+A Debrecenben dolgozott Dzsudzsák .
+A Debrecenben dolgozott Szalai .
+A Debrecenben futballozott Ronaldo .
+A Debrecenben futballozott Messi .
+A Debrecenben futballozott Neymar .
+A Debrecenben futballozott Xavi .
+A Debrecenben futballozott Beckham .
+A Debrecenben futballozott Dzsudzsák .
+A Debrecenben futballozott Szalai .
+A Debrecenben focizott Ronaldo .
+A Debrecenben focizott Messi .
+A Debrecenben focizott Neymar .
+A Debrecenben focizott Xavi .
+A Debrecenben focizott Beckham .
+A Debrecenben focizott Dzsudzsák .
+A Debrecenben focizott Szalai .
+Fordokkal járt a szépségkirálynő .
+Fordokkal közlekedett a szépségkirálynő .
+Fordokkal autózott a szépségkirálynő .
+Lincolnokkal járt a szépségkirálynő .
+Lincolnokkal közlekedett a szépségkirálynő .
+Lincolnokkal autózott a szépségkirálynő .
+Teslákkal járt a szépségkirálynő .
+Teslákkal közlekedett a szépségkirálynő .
+Teslákkal autózott a szépségkirálynő .
+Austinokkal járt a szépségkirálynő .
+Austinokkal közlekedett a szépségkirálynő .
+Austinokkal autózott a szépségkirálynő .
+Morrisokkal járt a szépségkirálynő .
+Morrisokkal közlekedett a szépségkirálynő .
+Morrisokkal autózott a szépségkirálynő .

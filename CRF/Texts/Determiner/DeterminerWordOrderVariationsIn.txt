@@ -1,0 +1,136 @@
+Ronaldo Manchesterben játszott .
+Ronaldo Barcelonában játszott .
+Ronaldo Hamburgban játszott .
+Ronaldo Münchenben játszott .
+Ronaldo Madridban játszott .
+Ronaldo Kölnben játszott .
+Ronaldo Debrecenben játszott .
+Messi Manchesterben játszott .
+Messi Barcelonában játszott .
+Messi Hamburgban játszott .
+Messi Münchenben játszott .
+Messi Madridban játszott .
+Messi Kölnben játszott .
+Messi Debrecenben játszott .
+Neymar Manchesterben játszott .
+Neymar Barcelonában játszott .
+Neymar Hamburgban játszott .
+Neymar Münchenben játszott .
+Neymar Madridban játszott .
+Neymar Kölnben játszott .
+Neymar Debrecenben játszott .
+Xavi Manchesterben játszott .
+Xavi Barcelonában játszott .
+Xavi Hamburgban játszott .
+Xavi Münchenben játszott .
+Xavi Madridban játszott .
+Xavi Kölnben játszott .
+Xavi Debrecenben játszott .
+Beckham Manchesterben játszott .
+Beckham Barcelonában játszott .
+Beckham Hamburgban játszott .
+Beckham Münchenben játszott .
+Beckham Madridban játszott .
+Beckham Kölnben játszott .
+Beckham Debrecenben játszott .
+Dzsudzsák Manchesterben játszott .
+Dzsudzsák Barcelonában játszott .
+Dzsudzsák Hamburgban játszott .
+Dzsudzsák Münchenben játszott .
+Dzsudzsák Madridban játszott .
+Dzsudzsák Kölnben játszott .
+Dzsudzsák Debrecenben játszott .
+Szalai Manchesterben játszott .
+Szalai Barcelonában játszott .
+Szalai Hamburgban játszott .
+Szalai Münchenben játszott .
+Szalai Madridban játszott .
+Szalai Kölnben játszott .
+Szalai Debrecenben játszott .
+Ronaldo a Manchesterben játszott .
+Ronaldo a Barcelonában játszott .
+Ronaldo a Hamburgban játszott .
+Ronaldo a Münchenben játszott .
+Ronaldo a Madridban játszott .
+Ronaldo a Kölnben játszott .
+Ronaldo a Debrecenben játszott .
+Messi a Manchesterben játszott .
+Messi a Barcelonában játszott .
+Messi a Hamburgban játszott .
+Messi a Münchenben játszott .
+Messi a Madridban játszott .
+Messi a Kölnben játszott .
+Messi a Debrecenben játszott .
+Neymar a Manchesterben játszott .
+Neymar a Barcelonában játszott .
+Neymar a Hamburgban játszott .
+Neymar a Münchenben játszott .
+Neymar a Madridban játszott .
+Neymar a Kölnben játszott .
+Neymar a Debrecenben játszott .
+Xavi a Manchesterben játszott .
+Xavi a Barcelonában játszott .
+Xavi a Hamburgban játszott .
+Xavi a Münchenben játszott .
+Xavi a Madridban játszott .
+Xavi a Kölnben játszott .
+Xavi a Debrecenben játszott .
+Beckham a Manchesterben játszott .
+Beckham a Barcelonában játszott .
+Beckham a Hamburgban játszott .
+Beckham a Münchenben játszott .
+Beckham a Madridban játszott .
+Beckham a Kölnben játszott .
+Beckham a Debrecenben játszott .
+Dzsudzsák a Manchesterben játszott .
+Dzsudzsák a Barcelonában játszott .
+Dzsudzsák a Hamburgban játszott .
+Dzsudzsák a Münchenben játszott .
+Dzsudzsák a Madridban játszott .
+Dzsudzsák a Kölnben játszott .
+Dzsudzsák a Debrecenben játszott .
+Szalai a Manchesterben játszott .
+Szalai a Barcelonában játszott .
+Szalai a Hamburgban játszott .
+Szalai a Münchenben játszott .
+Szalai a Madridban játszott .
+Szalai a Kölnben játszott .
+Szalai a Debrecenben játszott .
+Ronaldo a Manchesterben játszott .
+Messi a Barcelonában játszott .
+Neymar a Hamburgban játszott .
+Xavi a Münchenben játszott .
+Beckham a Madridban játszott .
+Dzsudzsák a Kölnben játszott .
+Szalai a Debrecenben játszott .
+A szépségkirálynő Forddal járt .
+A szépségkirálynő Lincolnnal járt .
+A szépségkirálynő Teslával járt .
+A szépségkirálynő Austinnal járt .
+A szépségkirálynő Morrisszal járt .
+A szépségkirálynő egy Forddal járt .
+A szépségkirálynő egy Lincolnnal járt .
+A szépségkirálynő egy Teslával járt .
+A szépségkirálynő egy Austinnal járt .
+A szépségkirálynő egy Morrisszal járt .
+A szépségkirálynő a Forddal járt .
+A szépségkirálynő a Lincolnnal járt .
+A szépségkirálynő a Teslával járt .
+A szépségkirálynő a Morrisszal járt .
+A szépségkirálynő az Austinnal járt .
+A szépségkirálynő Fordnál járt .
+A szépségkirálynő Lincolnnál járt .
+A szépségkirálynő Teslánál járt .
+A szépségkirálynő Austinnál járt .
+A szépségkirálynő Morrisnál járt .
+A szépségkirálynő az Austinnál járt .
+Ford autóját törte össze .
+Lincoln autóját törte össze .
+Tesla autóját törte össze .
+Austin autóját törte össze .
+Morris autóját törte össze .
+A Ford autóját törte össze .
+A Lincoln autóját törte össze .
+A Tesla autóját törte össze .
+A Morris autóját törte össze .
+Az Austin autóját törte össze .

@@ -1,0 +1,6 @@
+f1-score: 0.020790020790020788
+             precision    recall  f1-score   support
+
+       PERO       0.02      0.03      0.02       399
+
+avg / total       0.02      0.03      0.02       399
