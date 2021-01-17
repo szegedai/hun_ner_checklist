@@ -1,0 +1,9 @@
+f1-score: 0.5193067801763454
+             precision    recall  f1-score   support
+
+       PERO       1.00      1.00      1.00      3289
+       ORGO       0.99      0.03      0.06      3250
+      MISCO       1.00      0.83      0.91        30
+       LOCO       0.00      1.00      0.01        10
+
+avg / total       0.99      0.52      0.53      6579

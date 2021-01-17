@@ -1,0 +1,260 @@
+Forddal I-PER
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Lincolnnal I-PER
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Teslával I-PER
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Austinnal I-PER
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Morrisszal I-PER
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Fordokkal I-MISC
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Lincolnokkal I-MISC
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Teslákkal I-MISC
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Austinokkal I-MISC
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Morrisokkal I-MISC
+járt O
+a O
+szépségkirálynő O
+. O
+   
+Ford I-PER
+nyerte O
+az O
+autóversenyt O
+. O
+   
+Lincoln I-PER
+nyerte O
+az O
+autóversenyt O
+. O
+   
+Tesla I-PER
+nyerte O
+az O
+autóversenyt O
+. O
+   
+Austin I-PER
+nyerte O
+az O
+autóversenyt O
+. O
+   
+Morris I-PER
+nyerte O
+az O
+autóversenyt O
+. O
+   
+Fordok I-MISC
+nyerték O
+az O
+autóversenyt O
+. O
+   
+Lincolnok I-MISC
+nyerték O
+az O
+autóversenyt O
+. O
+   
+Teslák I-MISC
+nyerték O
+az O
+autóversenyt O
+. O
+   
+Austinok I-MISC
+nyerték O
+az O
+autóversenyt O
+. O
+   
+Morrisok I-MISC
+nyerték O
+az O
+autóversenyt O
+. O
+   
+A O
+cég O
+felvásárolta O
+a O
+Zsolnayt I-ORG
+. O
+   
+A O
+cég O
+felvásárolta O
+a O
+Herendit I-ORG
+. O
+   
+A O
+cég O
+felvásárolta O
+a O
+Zwackot I-ORG
+. O
+   
+A O
+cég O
+felvásárolta O
+a O
+Heinekent I-ORG
+. O
+   
+A O
+cég O
+felvásárolta O
+a O
+Borsodit I-ORG
+. O
+   
+A O
+cég O
+felvásárolta O
+a O
+Sopronit I-ORG
+. O
+   
+A O
+cég O
+felvásárolta O
+a O
+Drehert I-ORG
+. O
+   
+A O
+cég O
+felvásárolta O
+a O
+Kőbányait I-ORG
+. O
+   
+A O
+cég O
+felvásárolta O
+a O
+Kozelt I-ORG
+. O
+   
+A O
+cég O
+felvásárolta O
+a O
+Tuborgot I-ORG
+. O
+   
+A O
+cég O
+felvásárolta O
+a O
+Zsolnaykat I-MISC
+. O
+   
+A O
+cég O
+felvásárolta O
+a O
+Herendiket I-MISC
+. O
+   
+A O
+cég O
+felvásárolta O
+a O
+Zwackokat I-MISC
+. O
+   
+A O
+cég O
+felvásárolta O
+a O
+Heinekeneket I-MISC
+. O
+   
+A O
+cég O
+felvásárolta O
+a O
+Borsodikat I-MISC
+. O
+   
+A O
+cég O
+felvásárolta O
+a O
+Sopronikat I-MISC
+. O
+   
+A O
+cég O
+felvásárolta O
+a O
+Drehereket I-MISC
+. O
+   
+A O
+cég O
+felvásárolta O
+a O
+Kőbányaikat I-MISC
+. O
+   
+A O
+cég O
+felvásárolta O
+a O
+Kozeleket I-MISC
+. O
+   
+A O
+cég O
+felvásárolta O
+a O
+Tuborgokat I-MISC
+. O
+   

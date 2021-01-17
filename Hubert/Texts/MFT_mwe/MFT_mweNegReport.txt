@@ -1,0 +1,6 @@
+f1-score: 0.9910714285714286
+             precision    recall  f1-score   support
+
+       ORGO       1.00      0.99      1.00       784
+
+avg / total       1.00      0.99      1.00       784

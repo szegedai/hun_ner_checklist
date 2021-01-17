@@ -1,1 +1,0 @@
-java -Xmx3G -jar ner.jar -mode predicate -input Texts/MFT/MFTBasicIn.txt -output Texts/MFT/MFTBasicOut.txt

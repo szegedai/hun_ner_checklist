@@ -1,4 +1,3 @@
-from seqeval.metrics import accuracy_score
 from seqeval.metrics import classification_report
 from seqeval.metrics import f1_score
 import pandas as pd
@@ -8,10 +7,13 @@ import shutil
 
 def getF1Score(name, variation):
 
-    dfTrue = pd.read_csv('Texts/{0}/{0}{1}True.txt'.format(name, variation), delimiter='\s+', index_col=False, header=None).dropna()
+    dfTrue = pd.read_csv('Texts/{0}/{0}{1}True.txt'.format(name, variation),
+                         delimiter='\s+', index_col=False, header=None).dropna()
     dfTrue.columns = ['word', 'tag']
 
-    dfPred = pd.read_csv('Texts/{0}/{0}{1}Out.txt'.format(name, variation), delimiter='\s+', index_col=False, header=None).dropna()
+    dfPred = pd.read_csv('Texts/{0}/{0}{1}Out.txt'.format(name, variation),
+                         delimiter='\s+', index_col=False, header=None).dropna()
+
     dfPred.columns = ['word', 'tag']
 
     y_true = dfTrue['tag']
@@ -48,7 +50,8 @@ def copyFiles():
         os.makedirs('Results/{}'.format(testCase))
         for variation1 in variations1:
             for variation2 in variations2:
-                shutil.copy('Texts/{0}/{0}{1}{2}.txt'.format(testCase, variation1, variation2), 'Results/{}/'.format(testCase), follow_symlinks=True)
+                shutil.copy('Texts/{0}/{0}{1}{2}.txt'.format(testCase, variation1, variation2),
+                            'Results/{}/'.format(testCase), follow_symlinks=True)
 
 
 if __name__ == '__main__':

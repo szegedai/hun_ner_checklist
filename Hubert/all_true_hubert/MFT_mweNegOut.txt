@@ -1,0 +1,7056 @@
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Magyar	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Német	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Francia	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Görög	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Bergengóc	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Óperenciás	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+a	O
+Spanyol	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Orosz	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-LOC
+Egyesült	I-LOC
+Színház	E-LOC
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Amerikai	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Angol	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Arab	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Indiai	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Egyiptomi	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+alakult	O
+meg	O
+az	O
+Észt	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Magyar	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Német	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-LOC
+Egyesült	I-LOC
+Színház	E-LOC
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Francia	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Görög	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Bergengóc	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Óperenciás	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+a	O
+Spanyol	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Orosz	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-LOC
+Egyesült	I-LOC
+Színház	E-LOC
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-LOC
+Egyesült	I-LOC
+Múzeum	E-LOC
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-LOC
+Egyesült	I-LOC
+Egyetem	E-LOC
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Amerikai	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Angol	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-LOC
+Egyesült	I-LOC
+Színház	E-LOC
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Arab	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-LOC
+Egyesült	I-LOC
+Színház	E-LOC
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Indiai	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Egyiptomi	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Nemzeti	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Nemzeti	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Nemzeti	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Nemzeti	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Nemzeti	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Nemzeti	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Nemzeti	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Állami	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Állami	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Állami	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Állami	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Állami	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Állami	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Állami	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Vidéki	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Vidéki	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Vidéki	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Vidéki	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Vidéki	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Vidéki	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Vidéki	I-ORG
+Főiskola	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Egyesült	I-ORG
+Színház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Egyesült	I-ORG
+Bank	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Egyesült	I-ORG
+Minisztérium	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Egyesült	I-ORG
+Filmszínház	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Egyesült	I-ORG
+Múzeum	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Egyesült	I-ORG
+Egyetem	E-ORG
+.	O
+
+Nem	O
+jött	O
+létre	O
+az	O
+Észt	B-ORG
+Egyesült	I-ORG
+Főiskola	E-ORG
+.	O
+

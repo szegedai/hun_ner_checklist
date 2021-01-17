@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7787b76e-31d5-42e2-9acd-514306cf141c" name="Default Changelist" comment="" />
+    <list default="true" id="7787b76e-31d5-42e2-9acd-514306cf141c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Template/TemplateWriter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eval.py" beforeDir="false" afterPath="$PROJECT_DIR$/eval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Template/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Template/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Template/Checklist (1).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Template/Fixer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Template/Fixer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Template/ProcessDeterminer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Template/ProcessDeterminer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Template/ProcessMFT.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Template/ProcessMFT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Template/ProcessMFT_adj.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Template/ProcessMFT_adj.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Template/ProcessMFT_mew.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Template/ProcessMFT_mew.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Template/ProcessMFT_voc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Template/ProcessMFT_voc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Template/ProcessPlural.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Template/ProcessPlural.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Template/ProcessPostPosition.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Template/ProcessPostPosition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Template/ProcessSLR.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Template/ProcessSLR.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Template/ProcessSuffix.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Template/ProcessSuffix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Template/ProcessTaxonomy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Template/ProcessTaxonomy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Template/TemplateReader.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Template/TemplateReader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inv_test.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +37,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1kWKmeT6eCrBg4BG4LKwEZXm0Tr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +49,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.eval (1)">
@@ -108,9 +136,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605811118839" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1605953052731">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1610898145060">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605953052731" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610898145060" />
   </component>
 </project>
