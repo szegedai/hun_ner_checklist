@@ -1,4 +1,4 @@
-# Template
+# Hungarian NER templates
 
 This directory contains the Hungarian NER CHECKLIST templates in CSV format. These templates are created by [Veronika Vincze](mailto:vinczev@inf.u-szeged.hu).
 
