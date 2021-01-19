@@ -1,0 +1,294 @@
+A	O
+NOB	B-ORG
+London	E-ORG
+mellett	O
+ülésezett	O
+.	O
+
+A	O
+NOB	1-ORG
+Peking	1-LOC
+mellett	O
+ülésezett	O
+.	O
+
+A	O
+NOB	B-ORG
+Rio	E-ORG
+mellett	O
+ülésezett	O
+.	O
+
+A	O
+NOB	1-ORG
+Sydney	1-LOC
+mellett	O
+ülésezett	O
+.	O
+
+A	O
+NOB	1-ORG
+Athén	1-LOC
+mellett	O
+ülésezett	O
+.	O
+
+A	O
+NOB	B-ORG
+Barcelona	E-ORG
+mellett	O
+ülésezett	O
+.	O
+
+A	O
+NOB	B-ORG
+Atlanta	E-ORG
+mellett	O
+ülésezett	O
+.	O
+
+A	O
+MOB	B-ORG
+London	E-ORG
+mellett	O
+ülésezett	O
+.	O
+
+A	O
+MOB	1-ORG
+Peking	1-LOC
+mellett	O
+ülésezett	O
+.	O
+
+A	O
+MOB	B-ORG
+Rio	E-ORG
+mellett	O
+ülésezett	O
+.	O
+
+A	O
+MOB	1-ORG
+Sydney	1-LOC
+mellett	O
+ülésezett	O
+.	O
+
+A	O
+MOB	1-ORG
+Athén	1-LOC
+mellett	O
+ülésezett	O
+.	O
+
+A	O
+MOB	B-ORG
+Barcelona	E-ORG
+mellett	O
+ülésezett	O
+.	O
+
+A	O
+MOB	B-ORG
+Atlanta	E-ORG
+mellett	O
+ülésezett	O
+.	O
+
+A	O
+NOB	1-ORG
+London	1-LOC
+előtt	O
+ülésezett	O
+.	O
+
+A	O
+NOB	B-ORG
+London	E-ORG
+után	O
+ülésezett	O
+.	O
+
+A	O
+NOB	1-ORG
+Peking	1-LOC
+előtt	O
+ülésezett	O
+.	O
+
+A	O
+NOB	1-ORG
+Peking	1-LOC
+után	O
+ülésezett	O
+.	O
+
+A	O
+NOB	B-ORG
+Rio	E-ORG
+előtt	O
+ülésezett	O
+.	O
+
+A	O
+NOB	B-ORG
+Rio	E-ORG
+után	O
+ülésezett	O
+.	O
+
+A	O
+NOB	1-ORG
+Sydney	1-LOC
+előtt	O
+ülésezett	O
+.	O
+
+A	O
+NOB	1-ORG
+Sydney	1-LOC
+után	O
+ülésezett	O
+.	O
+
+A	O
+NOB	B-ORG
+Athén	E-ORG
+előtt	O
+ülésezett	O
+.	O
+
+A	O
+NOB	B-ORG
+Athén	E-ORG
+után	O
+ülésezett	O
+.	O
+
+A	O
+NOB	B-ORG
+Barcelona	E-ORG
+előtt	O
+ülésezett	O
+.	O
+
+A	O
+NOB	B-ORG
+Barcelona	E-ORG
+után	O
+ülésezett	O
+.	O
+
+A	O
+NOB	B-ORG
+Atlanta	E-ORG
+előtt	O
+ülésezett	O
+.	O
+
+A	O
+NOB	B-ORG
+Atlanta	E-ORG
+után	O
+ülésezett	O
+.	O
+
+A	O
+MOB	B-ORG
+London	E-ORG
+előtt	O
+ülésezett	O
+.	O
+
+A	O
+MOB	B-ORG
+London	E-ORG
+után	O
+ülésezett	O
+.	O
+
+A	O
+MOB	1-ORG
+Peking	1-LOC
+előtt	O
+ülésezett	O
+.	O
+
+A	O
+MOB	1-ORG
+Peking	1-LOC
+után	O
+ülésezett	O
+.	O
+
+A	O
+MOB	B-ORG
+Rio	E-ORG
+előtt	O
+ülésezett	O
+.	O
+
+A	O
+MOB	B-ORG
+Rio	E-ORG
+után	O
+ülésezett	O
+.	O
+
+A	O
+MOB	1-ORG
+Sydney	1-LOC
+előtt	O
+ülésezett	O
+.	O
+
+A	O
+MOB	1-ORG
+Sydney	1-LOC
+után	O
+ülésezett	O
+.	O
+
+A	O
+MOB	B-ORG
+Athén	E-ORG
+előtt	O
+ülésezett	O
+.	O
+
+A	O
+MOB	B-ORG
+Athén	E-ORG
+után	O
+ülésezett	O
+.	O
+
+A	O
+MOB	B-ORG
+Barcelona	E-ORG
+előtt	O
+ülésezett	O
+.	O
+
+A	O
+MOB	B-ORG
+Barcelona	E-ORG
+után	O
+ülésezett	O
+.	O
+
+A	O
+MOB	B-ORG
+Atlanta	E-ORG
+előtt	O
+ülésezett	O
+.	O
+
+A	O
+MOB	B-ORG
+Atlanta	E-ORG
+után	O
+ülésezett	O
+.	O
+

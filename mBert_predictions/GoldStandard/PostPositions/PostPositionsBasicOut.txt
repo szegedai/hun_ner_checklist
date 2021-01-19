@@ -1,0 +1,294 @@
+London	I-LOC
+mellett	O
+ülésezett	O
+a	O
+NOB	I-ORG
+.	O
+
+London	I-LOC
+mellett	O
+ülésezett	O
+a	O
+MOB	I-ORG
+.	O
+
+Peking	I-LOC
+mellett	O
+ülésezett	O
+a	O
+NOB	I-ORG
+.	O
+
+Peking	I-LOC
+mellett	O
+ülésezett	O
+a	O
+MOB	I-ORG
+.	O
+
+Rio	I-LOC
+mellett	O
+ülésezett	O
+a	O
+NOB	I-ORG
+.	O
+
+Rio	I-LOC
+mellett	O
+ülésezett	O
+a	O
+MOB	I-ORG
+.	O
+
+Sydney	I-LOC
+mellett	O
+ülésezett	O
+a	O
+NOB	I-ORG
+.	O
+
+Sydney	I-LOC
+mellett	O
+ülésezett	O
+a	O
+MOB	I-ORG
+.	O
+
+Athén	O
+mellett	O
+ülésezett	O
+a	O
+NOB	I-ORG
+.	O
+
+Athén	O
+mellett	O
+ülésezett	O
+a	O
+MOB	I-ORG
+.	O
+
+Barcelona	I-LOC
+mellett	O
+ülésezett	O
+a	O
+NOB	I-ORG
+.	O
+
+Barcelona	I-LOC
+mellett	O
+ülésezett	O
+a	O
+MOB	I-ORG
+.	O
+
+Atlanta	O
+mellett	O
+ülésezett	O
+a	O
+NOB	I-ORG
+.	O
+
+Atlanta	O
+mellett	O
+ülésezett	O
+a	O
+MOB	I-ORG
+.	O
+
+London	I-LOC
+előtt	O
+ülésezett	O
+a	O
+NOB	I-ORG
+.	O
+
+London	I-LOC
+előtt	O
+ülésezett	O
+a	O
+MOB	I-ORG
+.	O
+
+London	I-LOC
+után	O
+ülésezett	O
+a	O
+NOB	I-ORG
+.	O
+
+London	I-LOC
+után	O
+ülésezett	O
+a	O
+MOB	I-ORG
+.	O
+
+Peking	O
+előtt	O
+ülésezett	O
+a	O
+NOB	I-ORG
+.	O
+
+Peking	O
+előtt	O
+ülésezett	O
+a	O
+MOB	I-ORG
+.	O
+
+Peking	O
+után	O
+ülésezett	O
+a	O
+NOB	I-ORG
+.	O
+
+Peking	O
+után	O
+ülésezett	O
+a	O
+MOB	I-ORG
+.	O
+
+Rio	I-LOC
+előtt	O
+ülésezett	O
+a	O
+NOB	I-ORG
+.	O
+
+Rio	I-LOC
+előtt	O
+ülésezett	O
+a	O
+MOB	I-ORG
+.	O
+
+Rio	I-LOC
+után	O
+ülésezett	O
+a	O
+NOB	I-ORG
+.	O
+
+Rio	I-LOC
+után	O
+ülésezett	O
+a	O
+MOB	I-ORG
+.	O
+
+Sydney	I-PER
+előtt	O
+ülésezett	O
+a	O
+NOB	I-ORG
+.	O
+
+Sydney	I-PER
+előtt	O
+ülésezett	O
+a	O
+MOB	I-ORG
+.	O
+
+Sydney	I-LOC
+után	O
+ülésezett	O
+a	O
+NOB	I-ORG
+.	O
+
+Sydney	I-LOC
+után	O
+ülésezett	O
+a	O
+MOB	I-ORG
+.	O
+
+Athén	O
+előtt	O
+ülésezett	O
+a	O
+NOB	I-ORG
+.	O
+
+Athén	O
+előtt	O
+ülésezett	O
+a	O
+MOB	I-ORG
+.	O
+
+Athén	O
+után	O
+ülésezett	O
+a	O
+NOB	I-ORG
+.	O
+
+Athén	O
+után	O
+ülésezett	O
+a	O
+MOB	I-ORG
+.	O
+
+Barcelona	I-LOC
+előtt	O
+ülésezett	O
+a	O
+NOB	I-ORG
+.	O
+
+Barcelona	I-LOC
+előtt	O
+ülésezett	O
+a	O
+MOB	I-ORG
+.	O
+
+Barcelona	I-LOC
+után	O
+ülésezett	O
+a	O
+NOB	I-ORG
+.	O
+
+Barcelona	I-LOC
+után	O
+ülésezett	O
+a	O
+MOB	I-ORG
+.	O
+
+Atlanta	O
+előtt	O
+ülésezett	O
+a	O
+NOB	I-ORG
+.	O
+
+Atlanta	O
+előtt	O
+ülésezett	O
+a	O
+MOB	I-ORG
+.	O
+
+Atlanta	O
+után	O
+ülésezett	O
+a	O
+NOB	I-ORG
+.	O
+
+Atlanta	O
+után	O
+ülésezett	O
+a	O
+MOB	I-ORG
+.	O
+

@@ -1,0 +1,1600 @@
+Évi	B-PER
+Pétertől	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Évi	B-PER
+Pétertől	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Évi	B-PER
+Pétertől	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Évi	B-PER
+Pétertől	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Évi	B-PER
+Gézától	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Évi	B-PER
+Gézától	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Évi	B-PER
+Gézától	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Évi	B-PER
+Gézától	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Évi	B-PER
+Judittól	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Évi	B-PER
+Judittól	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Évi	B-PER
+Judittól	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Évi	B-PER
+Judittól	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Évi	B-PER
+Lénától	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Évi	B-PER
+Lénától	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Évi	B-PER
+Lénától	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Évi	B-PER
+Lénától	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Évi	B-PER
+Janitól	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Évi	B-PER
+Janitól	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Évi	B-PER
+Janitól	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Évi	B-PER
+Janitól	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Sára	B-PER
+Pétertől	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Sára	B-PER
+Pétertől	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Sára	B-PER
+Pétertől	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Sára	B-PER
+Pétertől	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Sára	B-PER
+Gézától	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Sára	B-PER
+Gézától	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Sára	B-PER
+Gézától	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Sára	B-PER
+Gézától	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Sára	B-PER
+Judittól	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Sára	B-PER
+Judittól	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Sára	B-PER
+Judittól	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Sára	B-PER
+Judittól	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Sára	B-PER
+Lénától	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Sára	B-PER
+Lénától	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Sára	B-PER
+Lénától	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Sára	B-PER
+Lénától	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Sára	B-PER
+Janitól	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Sára	B-PER
+Janitól	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Sára	B-PER
+Janitól	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Sára	B-PER
+Janitól	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Orbán	B-PER
+Pétertől	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Orbán	B-PER
+Pétertől	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Orbán	B-PER
+Pétertől	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Orbán	B-PER
+Pétertől	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Orbán	B-PER
+Gézától	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Orbán	B-PER
+Gézától	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Orbán	B-PER
+Gézától	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Orbán	B-PER
+Gézától	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Orbán	B-PER
+Judittól	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Orbán	B-PER
+Judittól	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Orbán	B-PER
+Judittól	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Orbán	B-PER
+Judittól	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Orbán	B-PER
+Lénától	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Orbán	B-PER
+Lénától	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Orbán	B-PER
+Lénától	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Orbán	B-PER
+Lénától	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Orbán	B-PER
+Janitól	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Orbán	B-PER
+Janitól	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Orbán	B-PER
+Janitól	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Orbán	B-PER
+Janitól	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Mici	B-PER
+Pétertől	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Mici	B-PER
+Pétertől	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Mici	B-PER
+Pétertől	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Mici	B-PER
+Pétertől	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Mici	B-PER
+Gézától	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Mici	B-PER
+Gézától	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Mici	B-PER
+Gézától	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Mici	B-PER
+Gézától	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Mici	B-PER
+Judittól	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Mici	B-PER
+Judittól	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Mici	B-PER
+Judittól	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Mici	B-PER
+Judittól	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Mici	O
+Lénától	1-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Mici	B-PER
+Lénától	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Mici	B-PER
+Lénától	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Mici	B-PER
+Lénától	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Mici	O
+Janitól	1-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Mici	B-PER
+Janitól	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Mici	B-PER
+Janitól	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Mici	B-PER
+Janitól	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Gabi	B-PER
+Pétertől	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Gabi	B-PER
+Pétertől	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Gabi	B-PER
+Pétertől	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Gabi	B-PER
+Pétertől	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Gabi	B-PER
+Gézától	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Gabi	B-PER
+Gézától	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Gabi	B-PER
+Gézától	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Gabi	B-PER
+Gézától	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Gabi	B-PER
+Judittól	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Gabi	B-PER
+Judittól	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Gabi	B-PER
+Judittól	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Gabi	B-PER
+Judittól	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Gabi	B-PER
+Lénától	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Gabi	B-PER
+Lénától	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Gabi	B-PER
+Lénától	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Gabi	B-PER
+Lénától	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Gabi	B-PER
+Janitól	E-PER
+nem	O
+kapott	O
+egy	O
+virágot	O
+.	O
+
+Gabi	B-PER
+Janitól	E-PER
+nem	O
+kapott	O
+egy	O
+könyvet	O
+.	O
+
+Gabi	B-PER
+Janitól	E-PER
+nem	O
+kapott	O
+egy	O
+csomagot	O
+.	O
+
+Gabi	B-PER
+Janitól	E-PER
+nem	O
+kapott	O
+egy	O
+képet	O
+.	O
+
+Évi	B-PER
+Péternek	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Évi	B-PER
+Péternek	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Évi	B-PER
+Péternek	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Évi	B-PER
+Péternek	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Évi	B-PER
+Gézának	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Évi	B-PER
+Gézának	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Évi	B-PER
+Gézának	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Évi	B-PER
+Gézának	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Évi	B-PER
+Juditnak	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Évi	B-PER
+Juditnak	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Évi	B-PER
+Juditnak	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Évi	B-PER
+Juditnak	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Évi	B-PER
+Lénának	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Évi	B-PER
+Lénának	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Évi	B-PER
+Lénának	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Évi	B-PER
+Lénának	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Évi	B-PER
+Janinak	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Évi	B-PER
+Janinak	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Évi	B-PER
+Janinak	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Évi	B-PER
+Janinak	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Sára	B-PER
+Péternek	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Sára	B-PER
+Péternek	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Sára	B-PER
+Péternek	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Sára	B-PER
+Péternek	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Sára	B-PER
+Gézának	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Sára	B-PER
+Gézának	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Sára	B-PER
+Gézának	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Sára	B-PER
+Gézának	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Sára	B-PER
+Juditnak	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Sára	B-PER
+Juditnak	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Sára	B-PER
+Juditnak	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Sára	B-PER
+Juditnak	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Sára	B-PER
+Lénának	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Sára	B-PER
+Lénának	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Sára	B-PER
+Lénának	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Sára	B-PER
+Lénának	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Sára	B-PER
+Janinak	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Sára	B-PER
+Janinak	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Sára	B-PER
+Janinak	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Sára	B-PER
+Janinak	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Orbán	B-PER
+Péternek	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Orbán	B-PER
+Péternek	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Orbán	B-PER
+Péternek	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Orbán	B-PER
+Péternek	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Orbán	B-PER
+Gézának	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Orbán	B-PER
+Gézának	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Orbán	B-PER
+Gézának	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Orbán	B-PER
+Gézának	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Orbán	B-PER
+Juditnak	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Orbán	B-PER
+Juditnak	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Orbán	B-PER
+Juditnak	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Orbán	B-PER
+Juditnak	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Orbán	B-PER
+Lénának	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Orbán	B-PER
+Lénának	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Orbán	B-PER
+Lénának	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Orbán	B-PER
+Lénának	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Orbán	B-PER
+Janinak	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Orbán	B-PER
+Janinak	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Orbán	B-PER
+Janinak	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Orbán	B-PER
+Janinak	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Mici	B-PER
+Péternek	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Mici	B-PER
+Péternek	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Mici	B-PER
+Péternek	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Mici	B-PER
+Péternek	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Mici	B-PER
+Gézának	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Mici	B-PER
+Gézának	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Mici	B-PER
+Gézának	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Mici	B-PER
+Gézának	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Mici	B-PER
+Juditnak	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Mici	B-PER
+Juditnak	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Mici	B-PER
+Juditnak	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Mici	B-PER
+Juditnak	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Mici	O
+Lénának	1-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Mici	B-PER
+Lénának	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Mici	O
+Lénának	1-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Mici	O
+Lénának	1-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Mici	B-PER
+Janinak	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Mici	B-PER
+Janinak	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Mici	B-PER
+Janinak	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Mici	B-PER
+Janinak	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Gabi	B-PER
+Péternek	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Gabi	B-PER
+Péternek	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Gabi	B-PER
+Péternek	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Gabi	B-PER
+Péternek	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Gabi	B-PER
+Gézának	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Gabi	B-PER
+Gézának	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Gabi	B-PER
+Gézának	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Gabi	B-PER
+Gézának	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Gabi	B-PER
+Juditnak	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Gabi	B-PER
+Juditnak	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Gabi	B-PER
+Juditnak	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Gabi	B-PER
+Juditnak	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Gabi	B-PER
+Lénának	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Gabi	B-PER
+Lénának	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Gabi	B-PER
+Lénának	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Gabi	B-PER
+Lénának	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+
+Gabi	B-PER
+Janinak	E-PER
+nem	O
+adott	O
+egy	O
+virágot	O
+.	O
+
+Gabi	B-PER
+Janinak	E-PER
+nem	O
+adott	O
+egy	O
+könyvet	O
+.	O
+
+Gabi	B-PER
+Janinak	E-PER
+nem	O
+adott	O
+egy	O
+csomagot	O
+.	O
+
+Gabi	B-PER
+Janinak	E-PER
+nem	O
+adott	O
+egy	O
+képet	O
+.	O
+

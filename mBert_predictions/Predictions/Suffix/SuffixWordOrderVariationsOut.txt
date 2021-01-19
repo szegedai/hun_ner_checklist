@@ -1,0 +1,1617 @@
+Ronaldo	O
+a	O
+Manchesterben	I-LOC
+játszott	O
+.	O
+
+Ronaldo	O
+a	O
+Barcelonában	I-LOC
+játszott	O
+.	O
+
+Ronaldo	O
+a	O
+Hamburgban	I-LOC
+játszott	O
+.	O
+
+Ronaldo	O
+a	O
+Münchenben	I-LOC
+játszott	O
+.	O
+
+Ronaldo	O
+a	O
+Madridban	I-LOC
+játszott	O
+.	O
+
+Ronaldo	O
+a	O
+Kölnben	I-LOC
+játszott	O
+.	O
+
+Ronaldo	O
+a	O
+Debrecenben	I-LOC
+játszott	O
+.	O
+
+Messi	O
+a	O
+Manchesterben	I-LOC
+játszott	O
+.	O
+
+Messi	O
+a	O
+Barcelonában	I-LOC
+játszott	O
+.	O
+
+Messi	O
+a	O
+Hamburgban	I-LOC
+játszott	O
+.	O
+
+Messi	O
+a	O
+Münchenben	I-LOC
+játszott	O
+.	O
+
+Messi	O
+a	O
+Madridban	I-LOC
+játszott	O
+.	O
+
+Messi	O
+a	O
+Kölnben	I-LOC
+játszott	O
+.	O
+
+Messi	O
+a	O
+Debrecenben	I-LOC
+játszott	O
+.	O
+
+Neymar	O
+a	O
+Manchesterben	I-LOC
+játszott	O
+.	O
+
+Neymar	O
+a	O
+Barcelonában	I-LOC
+játszott	O
+.	O
+
+Neymar	O
+a	O
+Hamburgban	I-LOC
+játszott	O
+.	O
+
+Neymar	O
+a	O
+Münchenben	I-LOC
+játszott	O
+.	O
+
+Neymar	O
+a	O
+Madridban	I-LOC
+játszott	O
+.	O
+
+Neymar	O
+a	O
+Kölnben	I-LOC
+játszott	O
+.	O
+
+Neymar	O
+a	O
+Debrecenben	I-LOC
+játszott	O
+.	O
+
+Xavi	O
+a	O
+Manchesterben	I-LOC
+játszott	O
+.	O
+
+Xavi	O
+a	O
+Barcelonában	I-LOC
+játszott	O
+.	O
+
+Xavi	O
+a	O
+Hamburgban	I-LOC
+játszott	O
+.	O
+
+Xavi	O
+a	O
+Münchenben	I-LOC
+játszott	O
+.	O
+
+Xavi	O
+a	O
+Madridban	I-LOC
+játszott	O
+.	O
+
+Xavi	O
+a	O
+Kölnben	I-LOC
+játszott	O
+.	O
+
+Xavi	O
+a	O
+Debrecenben	I-LOC
+játszott	O
+.	O
+
+Beckham	O
+a	O
+Manchesterben	I-LOC
+játszott	O
+.	O
+
+Beckham	O
+a	O
+Barcelonában	I-LOC
+játszott	O
+.	O
+
+Beckham	O
+a	O
+Hamburgban	I-LOC
+játszott	O
+.	O
+
+Beckham	O
+a	O
+Münchenben	I-LOC
+játszott	O
+.	O
+
+Beckham	O
+a	O
+Madridban	I-LOC
+játszott	O
+.	O
+
+Beckham	O
+a	O
+Kölnben	I-LOC
+játszott	O
+.	O
+
+Beckham	O
+a	O
+Debrecenben	I-LOC
+játszott	O
+.	O
+
+Dzsudzsák	O
+a	O
+Manchesterben	I-LOC
+játszott	O
+.	O
+
+Dzsudzsák	O
+a	O
+Barcelonában	I-LOC
+játszott	O
+.	O
+
+Dzsudzsák	O
+a	O
+Hamburgban	I-LOC
+játszott	O
+.	O
+
+Dzsudzsák	O
+a	O
+Münchenben	I-LOC
+játszott	O
+.	O
+
+Dzsudzsák	O
+a	O
+Madridban	I-LOC
+játszott	O
+.	O
+
+Dzsudzsák	O
+a	O
+Kölnben	I-LOC
+játszott	O
+.	O
+
+Dzsudzsák	O
+a	O
+Debrecenben	I-LOC
+játszott	O
+.	O
+
+Szalai	O
+a	O
+Manchesterben	I-LOC
+játszott	O
+.	O
+
+Szalai	O
+a	O
+Barcelonában	I-LOC
+játszott	O
+.	O
+
+Szalai	O
+a	O
+Hamburgban	I-LOC
+játszott	O
+.	O
+
+Szalai	O
+a	O
+Münchenben	I-LOC
+játszott	O
+.	O
+
+Szalai	O
+a	O
+Madridban	I-LOC
+játszott	O
+.	O
+
+Szalai	O
+a	O
+Kölnben	I-LOC
+játszott	O
+.	O
+
+Szalai	O
+a	O
+Debrecenben	I-LOC
+játszott	O
+.	O
+
+Ronaldo	O
+a	O
+Manchesterrel	I-ORG
+játszott	O
+.	O
+
+Ronaldo	O
+a	O
+Barcelonával	I-LOC
+játszott	O
+.	O
+
+Ronaldo	O
+a	O
+Hamburggal	I-ORG
+játszott	O
+.	O
+
+Ronaldo	O
+a	O
+Münchennel	I-ORG
+játszott	O
+.	O
+
+Ronaldo	O
+a	O
+Madriddal	I-ORG
+játszott	O
+.	O
+
+Ronaldo	O
+a	O
+Kölnnel	I-ORG
+játszott	O
+.	O
+
+Ronaldo	O
+a	O
+Debrecennel	I-ORG
+játszott	O
+.	O
+
+Messi	O
+a	O
+Manchesterrel	I-ORG
+játszott	O
+.	O
+
+Messi	O
+a	O
+Barcelonával	I-LOC
+játszott	O
+.	O
+
+Messi	O
+a	O
+Hamburggal	I-ORG
+játszott	O
+.	O
+
+Messi	O
+a	O
+Münchennel	I-ORG
+játszott	O
+.	O
+
+Messi	O
+a	O
+Madriddal	I-ORG
+játszott	O
+.	O
+
+Messi	O
+a	O
+Kölnnel	I-ORG
+játszott	O
+.	O
+
+Messi	O
+a	O
+Debrecennel	I-ORG
+játszott	O
+.	O
+
+Neymar	O
+a	O
+Manchesterrel	I-ORG
+játszott	O
+.	O
+
+Neymar	O
+a	O
+Barcelonával	I-LOC
+játszott	O
+.	O
+
+Neymar	O
+a	O
+Hamburggal	I-ORG
+játszott	O
+.	O
+
+Neymar	O
+a	O
+Münchennel	I-ORG
+játszott	O
+.	O
+
+Neymar	O
+a	O
+Madriddal	I-ORG
+játszott	O
+.	O
+
+Neymar	O
+a	O
+Kölnnel	I-ORG
+játszott	O
+.	O
+
+Neymar	O
+a	O
+Debrecennel	I-ORG
+játszott	O
+.	O
+
+Xavi	O
+a	O
+Manchesterrel	I-ORG
+játszott	O
+.	O
+
+Xavi	O
+a	O
+Barcelonával	I-LOC
+játszott	O
+.	O
+
+Xavi	O
+a	O
+Hamburggal	I-ORG
+játszott	O
+.	O
+
+Xavi	O
+a	O
+Münchennel	I-ORG
+játszott	O
+.	O
+
+Xavi	O
+a	O
+Madriddal	I-ORG
+játszott	O
+.	O
+
+Xavi	O
+a	O
+Kölnnel	I-ORG
+játszott	O
+.	O
+
+Xavi	O
+a	O
+Debrecennel	I-ORG
+játszott	O
+.	O
+
+Beckham	O
+a	O
+Manchesterrel	I-ORG
+játszott	O
+.	O
+
+Beckham	O
+a	O
+Barcelonával	I-LOC
+játszott	O
+.	O
+
+Beckham	O
+a	O
+Hamburggal	I-ORG
+játszott	O
+.	O
+
+Beckham	O
+a	O
+Münchennel	I-ORG
+játszott	O
+.	O
+
+Beckham	O
+a	O
+Madriddal	I-ORG
+játszott	O
+.	O
+
+Beckham	O
+a	O
+Kölnnel	I-ORG
+játszott	O
+.	O
+
+Beckham	O
+a	O
+Debrecennel	I-ORG
+játszott	O
+.	O
+
+Dzsudzsák	O
+a	O
+Manchesterrel	I-ORG
+játszott	O
+.	O
+
+Dzsudzsák	O
+a	O
+Barcelonával	I-LOC
+játszott	O
+.	O
+
+Dzsudzsák	O
+a	O
+Hamburggal	I-ORG
+játszott	O
+.	O
+
+Dzsudzsák	O
+a	O
+Münchennel	I-ORG
+játszott	O
+.	O
+
+Dzsudzsák	O
+a	O
+Madriddal	I-ORG
+játszott	O
+.	O
+
+Dzsudzsák	O
+a	O
+Kölnnel	I-ORG
+játszott	O
+.	O
+
+Dzsudzsák	O
+a	O
+Debrecennel	I-ORG
+játszott	O
+.	O
+
+Szalai	O
+a	O
+Manchesterrel	I-ORG
+játszott	O
+.	O
+
+Szalai	O
+a	O
+Barcelonával	I-LOC
+játszott	O
+.	O
+
+Szalai	O
+a	O
+Hamburggal	I-ORG
+játszott	O
+.	O
+
+Szalai	O
+a	O
+Münchennel	I-ORG
+játszott	O
+.	O
+
+Szalai	O
+a	O
+Madriddal	I-ORG
+játszott	O
+.	O
+
+Szalai	O
+a	O
+Kölnnel	I-ORG
+játszott	O
+.	O
+
+Szalai	O
+a	O
+Debrecennel	I-ORG
+játszott	O
+.	O
+
+Ronaldo	O
+a	O
+Manchesternél	I-ORG
+játszott	O
+.	O
+
+Ronaldo	O
+a	O
+Barcelonánál	I-LOC
+játszott	O
+.	O
+
+Ronaldo	O
+a	O
+Hamburgnál	I-ORG
+játszott	O
+.	O
+
+Ronaldo	O
+a	O
+Münchennél	I-ORG
+játszott	O
+.	O
+
+Ronaldo	O
+a	O
+Madridnál	I-ORG
+játszott	O
+.	O
+
+Ronaldo	O
+a	O
+Kölnnél	I-ORG
+játszott	O
+.	O
+
+Ronaldo	O
+a	O
+Debrecennél	I-ORG
+játszott	O
+.	O
+
+Messi	O
+a	O
+Manchesternél	I-LOC
+játszott	O
+.	O
+
+Messi	O
+a	O
+Barcelonánál	I-LOC
+játszott	O
+.	O
+
+Messi	O
+a	O
+Hamburgnál	I-LOC
+játszott	O
+.	O
+
+Messi	O
+a	O
+Münchennél	I-ORG
+játszott	O
+.	O
+
+Messi	O
+a	O
+Madridnál	I-ORG
+játszott	O
+.	O
+
+Messi	O
+a	O
+Kölnnél	I-ORG
+játszott	O
+.	O
+
+Messi	O
+a	O
+Debrecennél	I-LOC
+játszott	O
+.	O
+
+Neymar	O
+a	O
+Manchesternél	I-ORG
+játszott	O
+.	O
+
+Neymar	O
+a	O
+Barcelonánál	I-LOC
+játszott	O
+.	O
+
+Neymar	O
+a	O
+Hamburgnál	I-ORG
+játszott	O
+.	O
+
+Neymar	O
+a	O
+Münchennél	I-ORG
+játszott	O
+.	O
+
+Neymar	O
+a	O
+Madridnál	I-ORG
+játszott	O
+.	O
+
+Neymar	O
+a	O
+Kölnnél	I-ORG
+játszott	O
+.	O
+
+Neymar	O
+a	O
+Debrecennél	I-ORG
+játszott	O
+.	O
+
+Xavi	O
+a	O
+Manchesternél	I-ORG
+játszott	O
+.	O
+
+Xavi	O
+a	O
+Barcelonánál	I-LOC
+játszott	O
+.	O
+
+Xavi	O
+a	O
+Hamburgnál	I-LOC
+játszott	O
+.	O
+
+Xavi	O
+a	O
+Münchennél	I-ORG
+játszott	O
+.	O
+
+Xavi	O
+a	O
+Madridnál	I-ORG
+játszott	O
+.	O
+
+Xavi	O
+a	O
+Kölnnél	I-ORG
+játszott	O
+.	O
+
+Xavi	O
+a	O
+Debrecennél	I-ORG
+játszott	O
+.	O
+
+Beckham	O
+a	O
+Manchesternél	I-ORG
+játszott	O
+.	O
+
+Beckham	O
+a	O
+Barcelonánál	I-LOC
+játszott	O
+.	O
+
+Beckham	O
+a	O
+Hamburgnál	I-LOC
+játszott	O
+.	O
+
+Beckham	O
+a	O
+Münchennél	I-ORG
+játszott	O
+.	O
+
+Beckham	O
+a	O
+Madridnál	I-ORG
+játszott	O
+.	O
+
+Beckham	O
+a	O
+Kölnnél	I-ORG
+játszott	O
+.	O
+
+Beckham	O
+a	O
+Debrecennél	I-ORG
+játszott	O
+.	O
+
+Dzsudzsák	O
+a	O
+Manchesternél	I-LOC
+játszott	O
+.	O
+
+Dzsudzsák	O
+a	O
+Barcelonánál	I-LOC
+játszott	O
+.	O
+
+Dzsudzsák	O
+a	O
+Hamburgnál	I-LOC
+játszott	O
+.	O
+
+Dzsudzsák	O
+a	O
+Münchennél	I-ORG
+játszott	O
+.	O
+
+Dzsudzsák	O
+a	O
+Madridnál	I-ORG
+játszott	O
+.	O
+
+Dzsudzsák	O
+a	O
+Kölnnél	I-ORG
+játszott	O
+.	O
+
+Dzsudzsák	O
+a	O
+Debrecennél	I-ORG
+játszott	O
+.	O
+
+Szalai	O
+a	O
+Manchesternél	I-ORG
+játszott	O
+.	O
+
+Szalai	O
+a	O
+Barcelonánál	I-LOC
+játszott	O
+.	O
+
+Szalai	O
+a	O
+Hamburgnál	I-ORG
+játszott	O
+.	O
+
+Szalai	O
+a	O
+Münchennél	I-ORG
+játszott	O
+.	O
+
+Szalai	O
+a	O
+Madridnál	I-ORG
+játszott	O
+.	O
+
+Szalai	O
+a	O
+Kölnnél	I-ORG
+játszott	O
+.	O
+
+Szalai	O
+a	O
+Debrecennél	I-ORG
+játszott	O
+.	O
+
+Ronaldo	I-PER
+Manchesterben	I-PER
+játszott	O
+.	O
+
+Ronaldo	O
+Barcelonában	I-LOC
+játszott	O
+.	O
+
+Ronaldo	I-PER
+Hamburgban	I-PER
+játszott	O
+.	O
+
+Ronaldo	I-PER
+Münchenben	I-PER
+játszott	O
+.	O
+
+Ronaldo	I-PER
+Madridban	I-PER
+játszott	O
+.	O
+
+Ronaldo	I-PER
+Kölnben	I-PER
+játszott	O
+.	O
+
+Ronaldo	I-PER
+Debrecenben	I-PER
+játszott	O
+.	O
+
+Messi	I-LOC
+Manchesterben	I-LOC
+játszott	O
+.	O
+
+Messi	O
+Barcelonában	I-LOC
+játszott	O
+.	O
+
+Messi	O
+Hamburgban	I-LOC
+játszott	O
+.	O
+
+Messi	I-PER
+Münchenben	I-PER
+játszott	O
+.	O
+
+Messi	I-PER
+Madridban	I-PER
+játszott	O
+.	O
+
+Messi	I-PER
+Kölnben	I-PER
+játszott	O
+.	O
+
+Messi	I-PER
+Debrecenben	I-PER
+játszott	O
+.	O
+
+Neymar	I-LOC
+Manchesterben	I-LOC
+játszott	O
+.	O
+
+Neymar	O
+Barcelonában	I-LOC
+játszott	O
+.	O
+
+Neymar	I-PER
+Hamburgban	I-PER
+játszott	O
+.	O
+
+Neymar	I-PER
+Münchenben	I-PER
+játszott	O
+.	O
+
+Neymar	I-PER
+Madridban	I-PER
+játszott	O
+.	O
+
+Neymar	I-PER
+Kölnben	I-PER
+játszott	O
+.	O
+
+Neymar	I-PER
+Debrecenben	I-PER
+játszott	O
+.	O
+
+Xavi	I-LOC
+Manchesterben	I-LOC
+játszott	O
+.	O
+
+Xavi	O
+Barcelonában	I-LOC
+játszott	O
+.	O
+
+Xavi	O
+Hamburgban	I-LOC
+játszott	O
+.	O
+
+Xavi	I-PER
+Münchenben	I-PER
+játszott	O
+.	O
+
+Xavi	I-PER
+Madridban	I-PER
+játszott	O
+.	O
+
+Xavi	I-PER
+Kölnben	I-PER
+játszott	O
+.	O
+
+Xavi	O
+Debrecenben	I-LOC
+játszott	O
+.	O
+
+Beckham	O
+Manchesterben	I-LOC
+játszott	O
+.	O
+
+Beckham	O
+Barcelonában	I-LOC
+játszott	O
+.	O
+
+Beckham	O
+Hamburgban	I-LOC
+játszott	O
+.	O
+
+Beckham	I-PER
+Münchenben	I-PER
+játszott	O
+.	O
+
+Beckham	O
+Madridban	I-LOC
+játszott	O
+.	O
+
+Beckham	I-PER
+Kölnben	I-PER
+játszott	O
+.	O
+
+Beckham	O
+Debrecenben	I-LOC
+játszott	O
+.	O
+
+Dzsudzsák	I-LOC
+Manchesterben	I-LOC
+játszott	O
+.	O
+
+Dzsudzsák	O
+Barcelonában	I-LOC
+játszott	O
+.	O
+
+Dzsudzsák	O
+Hamburgban	I-LOC
+játszott	O
+.	O
+
+Dzsudzsák	O
+Münchenben	I-LOC
+játszott	O
+.	O
+
+Dzsudzsák	O
+Madridban	I-LOC
+játszott	O
+.	O
+
+Dzsudzsák	O
+Kölnben	I-LOC
+játszott	O
+.	O
+
+Dzsudzsák	O
+Debrecenben	I-LOC
+játszott	O
+.	O
+
+Szalai	I-LOC
+Manchesterben	I-LOC
+játszott	O
+.	O
+
+Szalai	O
+Barcelonában	I-LOC
+játszott	O
+.	O
+
+Szalai	I-PER
+Hamburgban	I-PER
+játszott	O
+.	O
+
+Szalai	I-PER
+Münchenben	I-PER
+játszott	O
+.	O
+
+Szalai	I-PER
+Madridban	I-PER
+játszott	O
+.	O
+
+Szalai	I-PER
+Kölnben	I-PER
+játszott	O
+.	O
+
+Szalai	I-PER
+Debrecenben	I-PER
+játszott	O
+.	O
+
+Ronaldo	I-PER
+Manchesterrel	I-PER
+játszott	O
+.	O
+
+Ronaldo	I-PER
+Barcelonával	I-PER
+játszott	O
+.	O
+
+Ronaldo	I-PER
+Hamburggal	I-PER
+játszott	O
+.	O
+
+Ronaldo	I-PER
+Münchennel	I-PER
+játszott	O
+.	O
+
+Ronaldo	I-PER
+Madriddal	I-PER
+játszott	O
+.	O
+
+Ronaldo	I-PER
+Kölnnel	I-PER
+játszott	O
+.	O
+
+Ronaldo	I-PER
+Debrecennel	I-PER
+játszott	O
+.	O
+
+Messi	I-PER
+Manchesterrel	I-PER
+játszott	O
+.	O
+
+Messi	I-PER
+Barcelonával	I-PER
+játszott	O
+.	O
+
+Messi	I-PER
+Hamburggal	I-PER
+játszott	O
+.	O
+
+Messi	I-PER
+Münchennel	I-PER
+játszott	O
+.	O
+
+Messi	I-PER
+Madriddal	I-PER
+játszott	O
+.	O
+
+Messi	I-PER
+Kölnnel	I-PER
+játszott	O
+.	O
+
+Messi	I-PER
+Debrecennel	I-PER
+játszott	O
+.	O
+
+Neymar	I-PER
+Manchesterrel	I-PER
+játszott	O
+.	O
+
+Neymar	I-PER
+Barcelonával	I-PER
+játszott	O
+.	O
+
+Neymar	I-PER
+Hamburggal	I-PER
+játszott	O
+.	O
+
+Neymar	I-PER
+Münchennel	I-PER
+játszott	O
+.	O
+
+Neymar	I-PER
+Madriddal	I-PER
+játszott	O
+.	O
+
+Neymar	I-PER
+Kölnnel	I-PER
+játszott	O
+.	O
+
+Neymar	I-PER
+Debrecennel	I-PER
+játszott	O
+.	O
+
+Xavi	I-PER
+Manchesterrel	I-PER
+játszott	O
+.	O
+
+Xavi	I-PER
+Barcelonával	I-PER
+játszott	O
+.	O
+
+Xavi	I-PER
+Hamburggal	I-PER
+játszott	O
+.	O
+
+Xavi	I-PER
+Münchennel	I-PER
+játszott	O
+.	O
+
+Xavi	I-PER
+Madriddal	I-PER
+játszott	O
+.	O
+
+Xavi	I-PER
+Kölnnel	I-PER
+játszott	O
+.	O
+
+Xavi	I-PER
+Debrecennel	I-PER
+játszott	O
+.	O
+
+Beckham	I-PER
+Manchesterrel	I-PER
+játszott	O
+.	O
+
+Beckham	I-PER
+Barcelonával	I-PER
+játszott	O
+.	O
+
+Beckham	I-PER
+Hamburggal	I-PER
+játszott	O
+.	O
+
+Beckham	I-PER
+Münchennel	I-PER
+játszott	O
+.	O
+
+Beckham	I-PER
+Madriddal	I-PER
+játszott	O
+.	O
+
+Beckham	I-PER
+Kölnnel	I-PER
+játszott	O
+.	O
+
+Beckham	I-PER
+Debrecennel	I-PER
+játszott	O
+.	O
+
+Dzsudzsák	I-PER
+Manchesterrel	I-PER
+játszott	O
+.	O
+
+Dzsudzsák	O
+Barcelonával	I-LOC
+játszott	O
+.	O
+
+Dzsudzsák	I-PER
+Hamburggal	I-PER
+játszott	O
+.	O
+
+Dzsudzsák	I-PER
+Münchennel	I-PER
+játszott	O
+.	O
+
+Dzsudzsák	I-PER
+Madriddal	I-PER
+játszott	O
+.	O
+
+Dzsudzsák	I-PER
+Kölnnel	I-PER
+játszott	O
+.	O
+
+Dzsudzsák	I-PER
+Debrecennel	I-PER
+játszott	O
+.	O
+
+Szalai	I-PER
+Manchesterrel	I-PER
+játszott	O
+.	O
+
+Szalai	I-PER
+Barcelonával	I-PER
+játszott	O
+.	O
+
+Szalai	I-PER
+Hamburggal	I-PER
+játszott	O
+.	O
+
+Szalai	I-PER
+Münchennel	I-PER
+játszott	O
+.	O
+
+Szalai	I-PER
+Madriddal	I-PER
+játszott	O
+.	O
+
+Szalai	I-PER
+Kölnnel	I-PER
+játszott	O
+.	O
+
+Szalai	I-PER
+Debrecennel	I-PER
+játszott	O
+.	O
+
+Ronaldo	I-PER
+Manchesternél	I-PER
+játszott	O
+.	O
+
+Ronaldo	I-PER
+Barcelonánál	I-PER
+játszott	O
+.	O
+
+Ronaldo	I-PER
+Hamburgnál	I-PER
+játszott	O
+.	O
+
+Ronaldo	I-PER
+Münchennél	I-PER
+játszott	O
+.	O
+
+Ronaldo	I-PER
+Madridnál	I-PER
+játszott	O
+.	O
+
+Ronaldo	I-PER
+Kölnnél	I-PER
+játszott	O
+.	O
+
+Ronaldo	I-PER
+Debrecennél	I-PER
+játszott	O
+.	O
+
+Messi	I-PER
+Manchesternél	I-PER
+játszott	O
+.	O
+
+Messi	I-PER
+Barcelonánál	I-PER
+játszott	O
+.	O
+
+Messi	I-PER
+Hamburgnál	I-PER
+játszott	O
+.	O
+
+Messi	I-PER
+Münchennél	I-PER
+játszott	O
+.	O
+
+Messi	I-PER
+Madridnál	I-PER
+játszott	O
+.	O
+
+Messi	I-PER
+Kölnnél	I-PER
+játszott	O
+.	O
+
+Messi	I-PER
+Debrecennél	I-PER
+játszott	O
+.	O
+
+Neymar	I-PER
+Manchesternél	I-PER
+játszott	O
+.	O
+
+Neymar	I-PER
+Barcelonánál	I-PER
+játszott	O
+.	O
+
+Neymar	I-PER
+Hamburgnál	I-PER
+játszott	O
+.	O
+
+Neymar	I-PER
+Münchennél	I-PER
+játszott	O
+.	O
+
+Neymar	I-PER
+Madridnál	I-PER
+játszott	O
+.	O
+
+Neymar	I-PER
+Kölnnél	I-PER
+játszott	O
+.	O
+
+Neymar	I-PER
+Debrecennél	I-PER
+játszott	O
+.	O
+
+Xavi	I-PER
+Manchesternél	I-PER
+játszott	O
+.	O
+
+Xavi	I-PER
+Barcelonánál	I-PER
+játszott	O
+.	O
+
+Xavi	I-PER
+Hamburgnál	I-PER
+játszott	O
+.	O
+
+Xavi	I-PER
+Münchennél	I-PER
+játszott	O
+.	O
+
+Xavi	I-PER
+Madridnál	I-PER
+játszott	O
+.	O
+
+Xavi	I-PER
+Kölnnél	I-PER
+játszott	O
+.	O
+
+Xavi	I-PER
+Debrecennél	I-PER
+játszott	O
+.	O
+
+Beckham	I-PER
+Manchesternél	I-PER
+játszott	O
+.	O
+
+Beckham	I-PER
+Barcelonánál	I-PER
+játszott	O
+.	O
+
+Beckham	I-PER
+Hamburgnál	I-PER
+játszott	O
+.	O
+
+Beckham	I-PER
+Münchennél	I-PER
+játszott	O
+.	O
+
+Beckham	I-PER
+Madridnál	I-PER
+játszott	O
+.	O
+
+Beckham	I-PER
+Kölnnél	I-PER
+játszott	O
+.	O
+
+Beckham	I-PER
+Debrecennél	I-PER
+játszott	O
+.	O
+
+Dzsudzsák	I-PER
+Manchesternél	I-PER
+játszott	O
+.	O
+
+Dzsudzsák	O
+Barcelonánál	I-LOC
+játszott	O
+.	O
+
+Dzsudzsák	I-PER
+Hamburgnál	I-PER
+játszott	O
+.	O
+
+Dzsudzsák	I-PER
+Münchennél	I-PER
+játszott	O
+.	O
+
+Dzsudzsák	I-PER
+Madridnál	I-PER
+játszott	O
+.	O
+
+Dzsudzsák	I-PER
+Kölnnél	I-PER
+játszott	O
+.	O
+
+Dzsudzsák	I-PER
+Debrecennél	I-PER
+játszott	O
+.	O
+
+Szalai	I-PER
+Manchesternél	I-PER
+játszott	O
+.	O
+
+Szalai	I-PER
+Barcelonánál	I-PER
+játszott	O
+.	O
+
+Szalai	I-PER
+Hamburgnál	I-PER
+játszott	O
+.	O
+
+Szalai	I-PER
+Münchennél	I-PER
+játszott	O
+.	O
+
+Szalai	I-PER
+Madridnál	I-PER
+játszott	O
+.	O
+
+Szalai	I-PER
+Kölnnél	I-PER
+játszott	O
+.	O
+
+Szalai	I-PER
+Debrecennél	I-PER
+játszott	O
+.	O
+
